@@ -7,8 +7,6 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 ## Theory
 
--   [ ] 📘
-        [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl/)
 -   [ ] 🎓
         [Theory of Computation by Michael Sipser](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 -   [ ] 📘
