@@ -1,5 +1,5 @@
 +++
-title = "Learning Resources"
+title = "Learning Resources(README)"
 path = "readme"
 +++
 
@@ -19,11 +19,11 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 -   Languages
 
-    -   [C++](cpp.md)
-    -   [Rust](rust.md)
-    -   [Haskell](haskell.md)
-    -   [Other Languages](misc_languages.md)
+    -   [C++](https://dipeshkaphle.github.io/Learning/cpp)
+    -   [Rust](https://dipeshkaphle.github.io/Learning/rust)
+    -   [Haskell](https://dipeshkaphle.github.io/Learning/haskell)
+    -   [Other Languages](https://dipeshkaphle.github.io/Learning/misc-languages)
 
--   [ Operating Systems ](os.md)
--   [ Programming Languages and Compilers](pl.md)
--   [ Misc CS ](misc_cs.md)
+-   [ Operating Systems ](https://dipeshkaphle.github.io/Learning/os)
+-   [ Programming Languages and Compilers](https://dipeshkaphle.github.io/Learning/pl)
+-   [ Misc CS ](https://dipeshkaphle.github.io/Learning/misc-cs)
