@@ -1,3 +1,7 @@
+---
+title: "C++"
+---
+
 # C++
 
 Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
@@ -28,7 +32,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 ## Videos
 
--   [x] 🎥[C++ with James McNeils and Kate Gregory]()https://youtube.com/playlist?list=PLB_QFf1fzn9O_22Q-P4xNajxIlbY3aCQk
+-   [x] 🎥[C++ with James McNeils and Kate Gregory](https://youtube.com/playlist?list=PLB_QFf1fzn9O_22Q-P4xNajxIlbY3aCQk)
 
 ## Articles
 

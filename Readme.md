@@ -1,3 +1,8 @@
++++
+title = "Learning Resources"
+path = "readme"
++++
+
 # Learning Resources
 
 A list of learning resources that I would like to refer back later or intent to

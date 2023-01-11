@@ -1,0 +1,37 @@
+# On every push this script is executed
+on: push
+
+env:
+  INDEX_TITLE: "Learning"
+  FOLDERS_TO_COPY: 
+
+name: Build and deploy GH Pages
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3.0.0
+      - name: Clone dipeshkaphle.github.io
+        run: git clone --depth 1 https://github.com/dipeshkaphle/dipeshkaphle.github.io
+      - name: Copy templates
+        run: cp -r dipeshkaphle.github.io/templates templates && rm templates/index.html
+      - name: Remove the cloned repo
+        run: rm -rf dipeshkaphle.github.io
+      - name: Create content folder
+        run: mkdir content
+      - name: Create _index.md inside content
+        run: printf "+++\ntitle = \"%s\"\n+++\n" ${{env.INDEX_TITLE}} > content/_index.md
+      - name: Copy md files to content directory
+        run: find -maxdepth 1 -regextype egrep -regex ".*\.(md|MD)" -exec cp "{}" content  \;
+      - name: Copy folders to content
+        run: cp -r ${{env.FOLDERS_TO_COPY}} content/ || true
+      - name: Clone theme(Apollo)
+        run: git clone --depth 1 https://github.com/not-matthias/apollo themes/apollo
+      - name: build_and_deploy
+        uses: shalzz/zola-deploy-action@v0.16.1
+        env:
+          # Target branch
+          PAGES_BRANCH: gh-pages
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}

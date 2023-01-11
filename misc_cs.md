@@ -1,3 +1,7 @@
+---
+title: "Miscellaneous CS"
+---
+
 # Misc
 
 Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page

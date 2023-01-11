@@ -1,3 +1,7 @@
+---
+title: "Misc Langugages"
+---
+
 # Misc
 
 Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
