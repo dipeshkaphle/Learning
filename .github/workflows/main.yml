@@ -30,7 +30,7 @@ jobs:
       - name: Clone theme(Apollo)
         run: git clone --depth 1 https://github.com/not-matthias/apollo themes/apollo
       - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.16.1
+        uses: shalzz/zola-deploy-action@v0.16.1-1
         env:
           # Target branch
           PAGES_BRANCH: gh-pages

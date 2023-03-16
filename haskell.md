@@ -13,7 +13,6 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
         [Advanced Functional Programming in Haskell](https://youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
 -   [ ] 🎥
         [Haskell For Imperative Programmers](https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
--   [ ]
 
 ## Problems
 
