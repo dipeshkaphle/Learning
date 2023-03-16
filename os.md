@@ -32,3 +32,9 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
         [Little Book of Semaphores](https://open.umn.edu/opentextbooks/textbooks/83)
 
 -   [ ] 🔗 [Linux](https://linuxjourney.com/)
+
+-   [ ] [How a CPU works: Bare metal C on my RISC-V toy CPU(HN Discussion link)](https://news.ycombinator.com/item?id=34533752)
+-   [ ] [Linux: What can you epoll? ](https://news.ycombinator.com/item?id=33299650)
+-   [ ] [liburing](https://github.com/axboe/liburing)
+-   [ ] [Efficient IO in linux with io_uring](https://news.ycombinator.com/item?id=33221063)
+-   [ ] [LockFree Algorithms 2010](https://news.ycombinator.com/item?id=32918043) 

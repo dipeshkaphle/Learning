@@ -1,5 +1,5 @@
 ---
-title: "Rust"
+title: 'Rust'
 ---
 
 # Rust
@@ -16,7 +16,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 -   [ ] 📘[Rustc Dev Guide](https://rustc-dev-guide.rust-lang.org/index.html)
 
-## Vieos
+## Videos
 
 -   [ ] 🎥🎓[CS 110L: Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020/)
 
@@ -24,8 +24,14 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 -   [ ] 🎥 [Ryan Levick](https://www.youtube.com/c/RyanLevicksVideos)
 
-## Edcations repos
+## Educational repos
 
--   [ ] 🔗[mini-redis] (https://github.com/tokio-rs/mini-redis/)
+-   [ ] 🔗[mini-redis](https://github.com/tokio-rs/mini-redis/)
 
 -   [ ] 🔗[Educational Executor](https://github.com/mgattozzi/whorl)
+
+## Blogs
+
+- [ ] [HN Discussion on "Thoughts on what a next Rust compiler would do" by Alex Kladov](https://news.ycombinator.com/item?id=34537969)
+- [ ] [Rust and C++ Interoperability](https://news.ycombinator.com/item?id=33590308)
+- [ ] [Explain GATs like I'm 5 years old](https://news.ycombinator.com/item?id=33504650)

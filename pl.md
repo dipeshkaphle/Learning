@@ -15,6 +15,7 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
         [Theory of Computation by Michael Sipser](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 -   [ ] 📘
         [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
+-   [ ] [Classical Papers in PL, recommendations](https://www.pls-lab.org/en/Classic_Papers_in_PL)
 
 ## Overview
 
@@ -47,12 +48,22 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 -   [ ] 📘
         [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf) -
         by Simon Peyton Jones
+-   [ ] [Compiling Functional Languages to LLVM, a series(Lots of other cool articles as well in blog about typeclasses)](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 
 ## GC
 
 -   [ ] 🔗
         [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 -   [ ] 📘[The Garbage Collection Handbook](https://gchandbook.org/)
+-   [ ] [Oilshell "Pictures of a working garbage collector"(Goldmine for garbage collector stuff, see the whole blog)](https://news.ycombinator.com/item?id=34350260)
+-   [ ] Modern Garbage Collection(HN Discussion)  [Part 1](https://news.ycombinator.com/item?id=13218550) [Part 2](https://news.ycombinator.com/item?id=21770530)
+-   [ ] [Boehm-Demers-Weiser Garbage Collector](https://news.ycombinator.com/item?id=35023833)
+-   [ ] [Understanding GC in JSC From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
+-   [ ] [Riptide,Webkit's GC](https://webkit.org/blog/7122/introducing-riptide-webkits-retreating-wavefront-concurrent-garbage-collector/)
+-   [ ] [High Performance GC for C++](https://v8.dev/blog/high-performance-cpp-gc)
+-   [ ] [Precise Stack Scanning in C++](https://docs.google.com/document/d/1mF-IW2UDwFslAREeapnP8bgXAlLG_DScOVhuTo34gBQ/edit#heading=h.ft3eufkln61m)
+-   [ ] [GC Resources, Thorsten Ball](https://gist.github.com/mrnugget/1fe234da53f436a16029a0fcd014201d)
+-   [ ] [Whippet, towards a new local maximum(more posts about GC present in the site)](https://wingolog.org/archives/2023/02/07/whippet-towards-a-new-local-maximum)
 
 ## Compiler Optimizations
 
@@ -62,10 +73,22 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 ## Educational Projects
 
 -   [ ] 🔗[chibcc by Rui Ueyama ](https://github.com/rui314/chibicc)
+-   [ ] [Multi-Language Programmable Linter](https://lobste.rs/s/pyrmyn/i_made_multi_language_programmable)
+
 
 ## Virtual Machine
 
 -   [ ] 🎥[How to Build a Virtual Machine](https://youtu.be/OjaAToVkoTw)
+-   [ ] Small VMs and coroutines [HN](https://news.ycombinator.com/item?id=34420959)  [Lobsters](https://lobste.rs/s/jrp9gv/small_vms_coroutines)
+-   [ ] Faster Virtual Machines [Lobsters](https://lobste.rs/s/cczkdj/faster_virtual_machines_speeding_up)
+-   [ ] [Interesting things about the Lua Interpreter(HN post link)](https://news.ycombinator.com/item?id=34213715)
+
+## Misc Compilers
+
+-   [ ] [Cranelift Stuff(Reg Alloc, Instruction Selector etc, a series of blogs)](https://cfallin.org/)
+-   [ ] [Let's write a setjmp(HN Discussion)](https://news.ycombinator.com/item?id=34760828)
+-   [ ] [Design of Austral Compiler(See other articles as well to see more about typechecker)](https://borretti.me/article/design-austral-compiler)
+-   [ ] [What Austral Proves(Lobsters discussion and link)](https://lobste.rs/s/t4ifza/what_austral_proves)
 
 ## Linkers
 
@@ -79,3 +102,9 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
         [CSE 131 - Compiler Construction(Haskell) ](https://podcast.ucsd.edu/watch/wi18/cse131_a00/5/screen)
 -   [ ] 🎓
         [CSE 131 - Compiler Construction(Ocaml) ](https://ucsd-cse131-f19.github.io/)
+
+-   [ ] [Programs and Proofs](https://kcsrk.info/cs6225_s21_iitm/)
+
+-   [ ] [Software Foundations(Course Cornell)](https://youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)
+
+-   [ ] [Software Foundations Books](https://softwarefoundations.cis.upenn.edu/index.html)

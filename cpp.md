@@ -42,6 +42,10 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 -   [ ] 🔗
         [Resources that help you to delve into C++](https://lesleylai.info/en/delve_into_cpp/)
 
+-   [ ] [Rust and C++ Interoperability](https://news.ycombinator.com/item?id=33590308)
+-   [ ] [C++ Coroutines](https://news.ycombinator.com/item?id=34898130)
+-   [ ] [Making Sense of Acquire Release Semantics](https://davekilian.com/acquire-release.html)
+
 ## Messed up templates stuff
 
 -   [ ] 🔗[TMP Lisp](https://github.com/tdp2110/TmpLisp)
@@ -50,3 +54,9 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 -   [ ] [CppCast](https://cppcast.com/)
 -   [ ] [Jason Turner's cpp weekly](https://youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
+
+## Repos
+
+- [ ] [LLVM Box,self contained fully static llvm tools(Something similar to zig)](https://github.com/rsms/llvmbox)
+- [ ] [Using Zig as C/C++ Compiler](https://zig.news/kristoff/compile-a-c-c-project-with-zig-368j)
+
