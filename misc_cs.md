@@ -21,3 +21,5 @@ title: 'Miscellaneous CS'
 -   [ ] [Missing Semester](https://news.ycombinator.com/item?id=22226380)A
 -   [ ] [Fly io Distsys](https://fly.io/dist-sys/)
 -   [ ] [Making Sense of Acquire Release Semantics](https://davekilian.com/acquire-release.html)
+-   [ ] [Tech Blogs Worth Reading by Austin Henley](https://austinhenley.com/blog/favblogs.html)
+-   [ ] [Fantastic Bugs and where to find them](https://cmu-fantastic-bugs.github.io/)

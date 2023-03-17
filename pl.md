@@ -74,6 +74,7 @@ title: 'Programming Languages'
 -   [ ] Faster Virtual Machines
         [Lobsters](https://lobste.rs/s/cczkdj/faster_virtual_machines_speeding_up)
 -   [ ] [Interesting things about the Lua Interpreter(HN post link)](https://news.ycombinator.com/item?id=34213715)
+-   [ ] [Writing Interpreters in Rust](https://rust-hosted-langs.github.io/book/introduction.html)
 
 ## Misc Compilers
 
@@ -81,6 +82,10 @@ title: 'Programming Languages'
 -   [ ] [Let's write a setjmp(HN Discussion)](https://news.ycombinator.com/item?id=34760828)
 -   [ ] [Design of Austral Compiler(See other articles as well to see more about typechecker)](https://borretti.me/article/design-austral-compiler)
 -   [ ] [What Austral Proves(Lobsters discussion and link)](https://lobste.rs/s/t4ifza/what_austral_proves)
+-   [ ] [Fibers, Oh My!](https://graphitemaster.github.io/fibers/)
+-   [ ] [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://youtu.be/-K11rY57K7k)
+-   [ ] [Phil Eaton's Favourite Compiler and Interpreter Resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
+-   [ ] [JVM Internals by Aleksey Shipilev](https://shipilev.net/jvm/anatomy-quarks/)
 
 ## Linkers
 
@@ -92,6 +97,9 @@ title: 'Programming Languages'
 -   [ ] [CSE 131 - Compiler Construction(Haskell) ](https://podcast.ucsd.edu/watch/wi18/cse131_a00/5/screen)
 -   [ ] [CSE 131 - Compiler Construction(Ocaml) ](https://ucsd-cse131-f19.github.io/)
 -   [ ] [CMU Compilers Course by Jan Hoffman](https://www.cs.cmu.edu/~janh/courses/411/23/)
+-   [ ] [Essentials of Compilation Course and Book](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
+-   [ ] [Course on VMs and Managed Runtimes](http://www.wolczko.com/CS294/)
+-   [ ] [(Book)Design and semantics of PL, in Scala](https://ps-tuebingen-courses.github.io/pl1-lecture-notes/01-intro/intro.html)
 -   [ ] [Programs and Proofs](https://kcsrk.info/cs6225_s21_iitm/)
 -   [ ] [Software Foundations(Course Cornell)](https://youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)
 -   [ ] [Software Foundations Books](https://softwarefoundations.cis.upenn.edu/index.html)
