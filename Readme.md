@@ -17,13 +17,13 @@ Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
 
 ## Computer Science and Software Engineering
 
--   Languages
+- Languages
 
-    -   [C++](https://dipeshkaphle.github.io/Learning/cpp)
-    -   [Rust](https://dipeshkaphle.github.io/Learning/rust)
-    -   [Haskell](https://dipeshkaphle.github.io/Learning/haskell)
-    -   [Other Languages](https://dipeshkaphle.github.io/Learning/misc-languages)
+  - [C++](https://dipeshkaphle.github.io/Learning/cpp)
+  - [Rust](https://dipeshkaphle.github.io/Learning/rust)
+  - [Haskell](https://dipeshkaphle.github.io/Learning/haskell)
+  - [Other Languages](https://dipeshkaphle.github.io/Learning/misc-languages)
 
--   [ Operating Systems ](https://dipeshkaphle.github.io/Learning/os)
--   [ Programming Languages and Compilers](https://dipeshkaphle.github.io/Learning/pl)
--   [ Misc CS ](https://dipeshkaphle.github.io/Learning/misc-cs)
+- [ Operating Systems ](https://dipeshkaphle.github.io/Learning/os)
+- [ Programming Languages and Compilers](https://dipeshkaphle.github.io/Learning/pl)
+- [ Misc CS ](https://dipeshkaphle.github.io/Learning/misc-cs)
