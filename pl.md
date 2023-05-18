@@ -66,6 +66,9 @@ title: "Programming Languages"
 - [ ] [chibcc by Rui Ueyama ](https://github.com/rui314/chibicc)
 - [ ] [Multi-Language Programmable Linter](https://lobste.rs/s/pyrmyn/i_made_multi_language_programmable)
 - [ ] [NEAL(Language agnostic code analysis tool)](https://github.com/uber/NEAL)
+- [ ] [AST Grep tool](https://github.com/ast-grep/ast-grep)
+- [ ] [Comby, Tool for searching and changing code structure](https://github.com/comby-tools/comby)
+- [x] [Parser Parser Combinators(Talk about Comby)](https://youtu.be/JMZLBB_BFNg)
 
 ## Virtual Machine
 

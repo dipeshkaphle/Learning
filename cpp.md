@@ -8,7 +8,7 @@ title: "C++"
 
 - [ ] [CppCon 2020 Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 - [ ] [CppCon 2019 Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4CTnVjJqnAKeMfGzOWjsRa)
-- [x] 🎥[C++ with James McNeils and Kate Gregory](https://youtube.com/playlist?list=PLB_QFf1fzn9O_22Q-P4xNajxIlbY3aCQk)
+- [x] [C++ with James McNeils and Kate Gregory](https://youtube.com/playlist?list=PLB_QFf1fzn9O_22Q-P4xNajxIlbY3aCQk)
 
 ## CMake
 

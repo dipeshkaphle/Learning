@@ -13,7 +13,10 @@ study.
 A list of learning resources that I would like to refer back later or intent to
 study.
 
-Icons: 📘 Book 🎥 Video 🎓 Course 📄 Paper 🔗 Web Page
+Other great place to find Learning resources is
+
+- [Lesley Lai's `learning` repository](https://github.com/LesleyLai/learning)
+- [My Notion Reading List which I'm pretty sure I'll actually never read](https://round-candle-7e1.notion.site/Reading-List-178f7cce3f4146f68b24995766bfcb7a)
 
 ## Computer Science and Software Engineering
 

@@ -6,9 +6,9 @@ title: "Rust"
 
 ## Books
 
-- [ ] [ Rust Book (Haven't fully read) ](https://doc.rust-lang.org/book/)
-- [ ] [ Nomicon ](https://doc.rust-lang.org/nomicon/)
-- [ ] [ Learn Rust With Entirely Too Many Linked Lists ](https://rust-unofficial.github.io/too-many-lists/index.html)
+- [ ] [Rust Book (Haven't fully read)](https://doc.rust-lang.org/book/)
+- [ ] [Nomicon](https://doc.rust-lang.org/nomicon/)
+- [ ] [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 - [ ] [Rustc Dev Guide](https://rustc-dev-guide.rust-lang.org/index.html)
 - [ ] [Rust Atomics and Locks](https://marabos.nl/atomics/)
 - [ ] [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
