@@ -91,6 +91,8 @@ title: "Programming Languages"
 - [ ] [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://youtu.be/-K11rY57K7k)
 - [ ] [Phil Eaton's Favourite Compiler and Interpreter Resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 - [ ] [JVM Internals by Aleksey Shipilev](https://shipilev.net/jvm/anatomy-quarks/)
+- [ ] [Max Bernstein(tekknolagi) pl resources](https://bernsteinbear.com/pl-resources/)
+- [ ] [A lisp compiler and interpreter writing series by tekknolagi](https://bernsteinbear.com/blog/lisp/)
 
 ## Linkers
 

@@ -16,6 +16,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [fasterthanli.me(so good)](https://fasterthanli.me/)
 - [ ] [Sid Kshatriya Blogs, good blog on rust and rr debuggers](https://github.com/sidkshatriya/me)
 - [ ] [Why Programmers Should(n't) Learn Theory](https://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
+- [ ] [Max Bernstein blog](https://bernsteinbear.com/blog/)
 
 ## Must Listen Podcasts
 

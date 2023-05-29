@@ -12,3 +12,4 @@ title: "OCaml"
 - [ ] [More Typeclasses in OCaml](https://blog.shaynefletcher.org/2017/05/more-type-classes-in-ocaml.html)
 - [ ] [Implementing typeclasses as OCaml modules](https://blog.shaynefletcher.org/2016/10/implementing-type-classes-as-ocaml.html)
 - [ ] [Modules Matter Most for the masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
+- [ ] [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
