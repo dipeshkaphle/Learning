@@ -27,3 +27,7 @@ title: "Languages"
 - [ ] [Understanding GC in JSC From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 - [ ] [High Performance GC for C++](https://v8.dev/blog/high-performance-cpp-gc)
 - [ ] [Precise Stack Scanning in C++](https://docs.google.com/document/d/1mF-IW2UDwFslAREeapnP8bgXAlLG_DScOVhuTo34gBQ/edit#heading=h.ft3eufkln61m)
+
+## Golang
+
+- [ ] [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency ](https://youtu.be/-K11rY57K7k)

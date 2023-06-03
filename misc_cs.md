@@ -25,3 +25,8 @@ title: "Miscellaneous CS"
 - [ ] [Missing Semester](https://news.ycombinator.com/item?id=22226380)A
 - [ ] [Fly io Distsys](https://fly.io/dist-sys/)
 - [ ] [Fantastic Bugs and where to find them](https://cmu-fantastic-bugs.github.io/)
+- [ ] [Algorithmica(must translate from Russian to English)](https://ru.algorithmica.org/)
+- [ ] [Cp Algorithms](https://cp-algorithms.com/)
+- [ ] [Algorithms for Modern Hardware(looks super useful to learn about intricate details about performance)](https://en.algorithmica.org/hpc/)
+- [ ] [Agner Fog(see optimization manual, apparently very good)](https://www.agner.org/optimize)
+- [ ] [Dmitry Vyukov, lockfree algorithms is a goldmine](https://www.1024cores.net/)

@@ -17,6 +17,9 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Sid Kshatriya Blogs, good blog on rust and rr debuggers](https://github.com/sidkshatriya/me)
 - [ ] [Why Programmers Should(n't) Learn Theory](https://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
 - [ ] [Max Bernstein blog](https://bernsteinbear.com/blog/)
+- [ ] [GoWind blogs](https://github.com/GoWind/GoWind.github.io)
+- [ ] [Vesa blogs](https://github.com/polytypic/blog)
+- [ ] [Eventhelix](https://www.eventhelix.com/design/)
 
 ## Must Listen Podcasts
 
@@ -29,6 +32,7 @@ title: "Blogs, Papers and Podcasts"
 - [Type Theory Forall](https://typetheoryforall.com/) Some episodes that I highly recommend are(I haven't listened to a lot of them):
   - #13 C/C++, Emacs, Haskell, and Coq. The Journey
   - #23 What is the SIGPLAN?
+- [Corecursive podcast](https://corecursive.com/)
 
 ## Papers Reading List
 
@@ -46,7 +50,10 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [mimalloc(refer to the repo as well as the paper)](https://github.com/microsoft/mimalloc)
 - [ ] [Compiling Swift Generics(HN link which has pdf link with nice discussion section)](https://news.ycombinator.com/item?id=33237002)
 - [ ] [Counting immutable beans](https://leanprover.github.io/talks/IFL2019.pdf)
-- [ ] [Adaptive Functional Programming](https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view?usp=sharing)
+- [x] [Adaptive Functional Programming](https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view?usp=sharing)
 - [ ] [Self-Adjusting Computation(Umut Acar's thesis)](https://drive.google.com/file/d/19UcnvDS1_6opK5qZcceuDjHTLmG_9Ovf/view?usp=sharing)
-- [ ] [Efficient Parallel Self-Adjusting Computation](https://drive.google.com/file/d/130-sCY1YPzo4j3YAJ7EL9-MflK0l8RmJ/view?usp=sharing)
+- [x] [Efficient Parallel Self-Adjusting Computation](https://drive.google.com/file/d/130-sCY1YPzo4j3YAJ7EL9-MflK0l8RmJ/view?usp=sharing)
 - [ ] [Making Concurrent Reference Counting as Fast as Manual Safe Memory Reclamation](https://dl.acm.org/doi/pdf/10.1145/3519939.3523730)
+- [ ] [Optimizing pattern matching](https://dl.acm.org/doi/10.1145/507669.507641)
+- [ ] [Bartosz Modelski's master's thesis](https://k-lifo.com/mphil.pdf)
+- [ ] [Monadic Parser Combinator (Graham Hutton)](https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf)
