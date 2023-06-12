@@ -20,6 +20,10 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [GoWind blogs](https://github.com/GoWind/GoWind.github.io)
 - [ ] [Vesa blogs](https://github.com/polytypic/blog)
 - [ ] [Eventhelix](https://www.eventhelix.com/design/)
+- [ ] [Gankra\_'s blog](https://faultlore.com/blah/)
+- [ ] [Ralf Jung's blog(lot of advanced Rust things)](https://www.ralfj.de/blog)
+- [ ] [Niko Matsiakis blog(lots of Rust stuff)](https://smallcultfollowing.com/babysteps/)
+- [ ] [Fernando Borretti's blog(again super nice PL blogs)](https://borretti.me/article/)
 
 ## Must Listen Podcasts
 

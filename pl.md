@@ -93,6 +93,7 @@ title: "Programming Languages"
 - [ ] [JVM Internals by Aleksey Shipilev](https://shipilev.net/jvm/anatomy-quarks/)
 - [ ] [Max Bernstein(tekknolagi) pl resources](https://bernsteinbear.com/pl-resources/)
 - [ ] [A lisp compiler and interpreter writing series by tekknolagi](https://bernsteinbear.com/blog/lisp/)
+- [ ] [How to compile with continutations](https://matt.might.net/articles/cps-conversion/)
 
 ## Linkers
 
