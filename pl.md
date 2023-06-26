@@ -94,6 +94,7 @@ title: "Programming Languages"
 - [ ] [Max Bernstein(tekknolagi) pl resources](https://bernsteinbear.com/pl-resources/)
 - [ ] [A lisp compiler and interpreter writing series by tekknolagi](https://bernsteinbear.com/blog/lisp/)
 - [ ] [How to compile with continutations](https://matt.might.net/articles/cps-conversion/)
+- [ ] [Design roadmap about YSH(by oilshell guy)](http://www.oilshell.org/blog/2023/06/ysh-review.html)
 
 ## Linkers
 

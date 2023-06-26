@@ -1,0 +1,671 @@
+Theory to systems: A grounded approach to programming language education (2019)
+https://arxiv.org/abs/1904.06750
+https://news.ycombinator.com/item?id=36467663
+
+Making C++ safe without borrow checking, reference counting, or tracing GC
+https://verdagon.dev/blog/vale-memory-safe-cpp
+https://news.ycombinator.com/item?id=36448759
+
+Compiling Typed Python
+https://bernsteinbear.com/blog/typed-python/
+https://news.ycombinator.com/item?id=36408248
+
+My First Impressions of Nix
+https://mtlynch.io/notes/nix-first-impressions/
+https://news.ycombinator.com/item?id=36387874
+
+Debugger Ghidra Class
+https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger
+https://news.ycombinator.com/item?id=36390357
+
+GPU Programming: When, Why and How?
+https://enccs.github.io/gpu-programming/
+https://news.ycombinator.com/item?id=36385938
+
+Building a Networked Key-Value-Store on an FPGA
+https://adamwalker.github.io/Building-FPGA-KVS/
+https://news.ycombinator.com/item?id=36387477
+
+How a Single Line of Code Made a 24-Core Server Slower Than a Laptop (2021)
+https://pkolaczk.github.io/server-slower-than-a-laptop/
+https://news.ycombinator.com/item?id=36376669
+
+Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection
+https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc
+https://news.ycombinator.com/item?id=36351415
+
+Is parallel programming hard, and, if so, what can you do about it?
+https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+https://news.ycombinator.com/item?id=36318280
+
+From Stacks to Trees: A new aliasing model for Rust
+https://www.ralfj.de/blog/2023/06/02/tree-borrows.html
+https://news.ycombinator.com/item?id=36268671
+
+The Accidental HFT Firm
+https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html
+https://news.ycombinator.com/item?id=36269041
+
+Writing a C Compiler (2017)
+https://norasandler.com/2017/11/29/Write-a-Compiler.html
+https://news.ycombinator.com/item?id=36248071
+
+Counterexamples in Type Systems: programs that crash, segfault or explode (2021)
+https://counterexamples.org/intro.html
+https://news.ycombinator.com/item?id=36213704
+
+The Rust I wanted had no future
+https://graydon2.dreamwidth.org/307291.html
+https://news.ycombinator.com/item?id=36193326
+
+Why Lisp Syntax Works
+https://borretti.me/article/why-lisp-syntax-works
+https://news.ycombinator.com/item?id=36194703
+
+V8 Maglev: compiler design doc
+https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing
+https://news.ycombinator.com/item?id=36184428
+
+Show HN: Google Code Jam Archive
+https://zibada.guru/gcj/
+https://news.ycombinator.com/item?id=36174815
+
+Zig is hard but worth it
+http://ratfactor.com/zig/hard
+https://news.ycombinator.com/item?id=36149462
+
+Sketch of a Post-ORM
+https://borretti.me/article/sketch-post-orm
+https://news.ycombinator.com/item?id=36164584
+
+Learn x86-64 assembly by writing a GUI from scratch
+https://gaultier.github.io/blog/x11_x64.html
+https://news.ycombinator.com/item?id=36153237
+
+What are the enduring innovations of Lisp? (2022)
+https://elliottslaughter.com/2022/12/lisp
+https://news.ycombinator.com/item?id=36154531
+
+55 GiB/s FizzBuzz
+https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630
+https://news.ycombinator.com/item?id=29031488
+
+Vectorization: Introduction
+https://cvw.cac.cornell.edu/vector/default
+https://news.ycombinator.com/item?id=36156444
+
+Haskell Optimization Handbook
+https://github.com/haskellfoundation/hs-opt-handbook.github.io
+https://news.ycombinator.com/item?id=36093120
+
+Zeal is an offline documentation browser for software developers
+https://zealdocs.org/
+https://news.ycombinator.com/item?id=36135955
+
+A good day with Jeff Bezos
+https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524
+https://news.ycombinator.com/item?id=36101784
+
+Everything you always wanted to know about mathematics (2013) [pdf]
+https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf
+https://news.ycombinator.com/item?id=36069847
+
+A highly intuitive visual guide on how memory allocation works, step by step
+https://samwho.dev/memory-allocation/
+https://news.ycombinator.com/item?id=36029087
+
+Same Stop: Life after 26 years as a programmer for Apple
+https://www.engineersneedart.com/blog/samestop/samestop.html
+https://news.ycombinator.com/item?id=36026662
+
+Testing a Formally Verified Compiler
+https://hal.science/hal-04096390/document
+https://news.ycombinator.com/item?id=36018300
+
+How much memory do you need to run 1M concurrent tasks?
+https://pkolaczk.github.io/memory-consumption-of-async/
+https://news.ycombinator.com/item?id=36024209
+
+Nyxt: The Hacker's Browser
+https://nyxt.atlas.engineer/
+https://news.ycombinator.com/item?id=36006423
+
+CRDT-richtext: Rust implementation of Peritext and Fugue
+https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0
+https://news.ycombinator.com/item?id=35988046
+
+Managing State with Signals
+https://tonsky.me/blog/humble-signals/
+https://news.ycombinator.com/item?id=35973151
+
+The simple joys of scaling up
+https://motherduck.com/blog/the-simple-joys-of-scaling-up/
+https://news.ycombinator.com/item?id=35988984
+
+High Performance Browser Networking
+https://hpbn.co/
+https://news.ycombinator.com/item?id=35937554
+
+A whirlwind tour of the LLVM optimizer
+https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf
+https://news.ycombinator.com/item?id=35893006
+
+Problems harder than NP-Complete
+https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/
+https://news.ycombinator.com/item?id=35908477
+
+How to do distributed locking (2016)
+https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+https://news.ycombinator.com/item?id=35910201
+
+The JavaScript ecosystem is delightfully weird
+https://fly.io/blog/js-ecosystem-delightfully-wierd/
+https://news.ycombinator.com/item?id=35900282
+
+Fuck Being Productive
+https://dostoynikov.bearblog.dev/fuck-being-productive/
+https://news.ycombinator.com/item?id=35899518
+
+Learning DNS in 10 Years
+https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/
+https://news.ycombinator.com/item?id=35870654
+
+The seven specification ur-languages
+https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/
+https://news.ycombinator.com/item?id=35874575
+
+Why Lisp?
+https://nyxt.atlas.engineer/article/why-lisp.org
+https://news.ycombinator.com/item?id=35852321
+
+RedisRaft
+https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md
+https://news.ycombinator.com/item?id=35847269
+
+macOS Internals
+https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
+https://news.ycombinator.com/item?id=35847715
+
+Monoliths are not dinosaurs
+https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html
+https://news.ycombinator.com/item?id=35834037
+
+Driving Compilers
+https://fabiensanglard.net/dc/index.php
+https://news.ycombinator.com/item?id=35806237
+
+Bank Failures Visualized
+https://observablehq.com/@mbostock/bank-failures
+https://news.ycombinator.com/item?id=35795975
+
+My favorite C compiler flags during development
+https://nullprogram.com/blog/2023/04/29/
+https://news.ycombinator.com/item?id=35758898
+
+Ask HN: Most interesting tech you built for just yourself?
+https://news.ycombinator.com/item?id=35729232
+https://news.ycombinator.com/item?id=35729232
+
+Beautiful branchless binary search
+https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/
+https://news.ycombinator.com/item?id=35737862
+
+My Thoughts on OCaml
+https://osa1.net/posts/2023-04-24-ocaml-thoughts.html
+https://news.ycombinator.com/item?id=35699697
+
+How RocksDB Works
+https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/
+https://news.ycombinator.com/item?id=35634673
+
+Coq typeclass resolution is Turing-complete
+https://thaliaarchi.github.io/coq-turing-typeclass/
+https://news.ycombinator.com/item?id=35591529
+
+Kalyn: A self-hosting compiler for x86-64
+https://intuitiveexplanations.com/tech/kalyn
+https://news.ycombinator.com/item?id=35549692
+
+The Garbage Collection Handbook, 2nd Edition
+https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038
+https://news.ycombinator.com/item?id=35492307
+
+Writing a Simple Garbage Collector in C (2014)
+http://maplant.com/gc.html
+https://news.ycombinator.com/item?id=35495886
+
+Using mmap to make LLaMA load faster
+https://justine.lol/mmap/
+https://news.ycombinator.com/item?id=35455930
+
+Programmer interrupted: The cost of interruption and context switching (2022)
+https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/
+https://news.ycombinator.com/item?id=35459333
+
+All About Libpas, Phil's Super Fast Malloc
+https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md
+https://news.ycombinator.com/item?id=31581727
+
+Llama.cpp 30B runs with only 6GB of RAM now
+https://github.com/ggerganov/llama.cpp/pull/613
+https://news.ycombinator.com/item?id=35393284
+
+Ask HN: Where can I find a primer on how computers boot?
+https://news.ycombinator.com/item?id=35229045
+https://news.ycombinator.com/item?id=35229045
+
+Type system of Fortnite's Verse language
+https://brianmckenna.org/blog/verse_types
+https://news.ycombinator.com/item?id=35363993
+
+Why take a compiler course? (2010)
+https://blog.regehr.org/archives/169
+https://news.ycombinator.com/item?id=35285518
+
+And yet It Understands
+https://borretti.me/article/and-yet-it-understands
+https://news.ycombinator.com/item?id=35312508
+
+Understanding Glibc Malloc
+https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
+https://news.ycombinator.com/item?id=35285521
+
+Cheating is All You Need
+https://about.sourcegraph.com/blog/cheating-is-all-you-need
+https://news.ycombinator.com/item?id=35273406
+
+A world to win: WebAssembly for the rest of us
+https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us
+https://news.ycombinator.com/item?id=35236272
+
+Ask HN: Why do many CS graduates lack foundational knowledge?
+https://news.ycombinator.com/item?id=35226887
+https://news.ycombinator.com/item?id=35226887
+
+Ask HN: What has your personal website/blog done for you?
+https://news.ycombinator.com/item?id=35164819
+https://news.ycombinator.com/item?id=35164819
+
+Guide to Java Virtual Threads
+https://blog.rockthejvm.com/ultimate-guide-to-java-virtual-threads/
+https://news.ycombinator.com/item?id=35147937
+
+CS 6120: Advanced Compilers: The Self-Guided Online Course
+https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+https://news.ycombinator.com/item?id=35130975
+
+The semantics of a simple functional language
+https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html
+https://news.ycombinator.com/item?id=35106340
+
+What a good debugger can do
+https://werat.dev/blog/what-a-good-debugger-can-do/
+https://news.ycombinator.com/item?id=35092998
+
+Carp lang: statically typed Lisp, no GC
+https://www.eriksvedang.com/carp
+https://news.ycombinator.com/item?id=35092027
+
+When Zig is safer and faster than Rust
+https://zackoverflow.dev/writing/unsafe-rust-vs-zig/
+https://news.ycombinator.com/item?id=35058176
+
+Boehm-Demers-Weiser Garbage Collector
+https://github.com/ivmai/bdwgc
+https://news.ycombinator.com/item?id=35023833
+
+RVVM – The RISC-V Virtual Machine
+https://github.com/LekKit/RVVM
+https://news.ycombinator.com/item?id=35009545
+
+Firecracker internals: Inside the technology powering AWS Lambda (2021)
+https://www.talhoffman.com/2021/07/18/firecracker-internals/
+https://news.ycombinator.com/item?id=34964197
+
+The Missing Semester of Your CS Education
+https://missing.csail.mit.edu/
+https://news.ycombinator.com/item?id=34934216
+
+C++ Coroutines
+https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html
+https://news.ycombinator.com/item?id=34898130
+
+Let's write a setjmp
+https://nullprogram.com/blog/2023/02/12/
+https://news.ycombinator.com/item?id=34760828
+
+A Gentle Introduction to CRDTs
+https://vlcn.io/blog/gentle-intro-to-crdts.html
+https://news.ycombinator.com/item?id=34746716
+
+How a Zig IDE Could Work
+https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html
+https://news.ycombinator.com/item?id=34740937
+
+Google and Mozilla are working on iOS browsers that aren't based on WebKit
+https://www.theregister.com/2023/02/07/mozilla_google_apple_webkit/
+https://news.ycombinator.com/item?id=34690788
+
+SICP: the end of an era (2021) [video]
+https://www.youtube.com/watch?v=OgRFOjVzvm0
+https://news.ycombinator.com/item?id=34657535
+
+Blink virtual machine now supports running GUI programs
+https://twitter.com/JustineTunney/status/1621415193296388096
+https://news.ycombinator.com/item?id=34638424
+
+Ask HN: How do you test SQL?
+https://news.ycombinator.com/item?id=34602318
+https://news.ycombinator.com/item?id=34602318
+
+Ask HN: What's the best lecture series you've seen?
+https://news.ycombinator.com/item?id=34591291
+https://news.ycombinator.com/item?id=34591291
+
+Automerge 2.0
+https://automerge.org/blog/automerge-2/
+https://news.ycombinator.com/item?id=34586433
+
+Over the past 21 months I’ve written a code editor from the ground up
+https://edita.vercel.app/blog/approach/
+https://news.ycombinator.com/item?id=34577246
+
+Forking Chrome to render in a terminal
+https://fathy.fr/carbonyl
+https://news.ycombinator.com/item?id=34547259
+
+Features I'd Like in PostgreSQL
+https://gilslotd.com/blog/features_id_postgresql
+https://news.ycombinator.com/item?id=34560332
+
+Thoughts on what a next Rust compiler would do
+https://matklad.github.io/2023/01/25/next-rust-compiler.html
+https://news.ycombinator.com/item?id=34537969
+
+How a CPU works: Bare metal C on my RISC-V toy CPU
+https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/
+https://news.ycombinator.com/item?id=34533752
+
+Zero to Nix, an unofficial, opinionated, gentle introduction to Nix
+https://zero-to-nix.com/
+https://news.ycombinator.com/item?id=34490376
+
+Git commands you probably do not need
+https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html
+https://news.ycombinator.com/item?id=34487201
+
+Sudoedit can edit arbitrary files
+https://seclists.org/oss-sec/2023/q1/42
+https://news.ycombinator.com/item?id=34445602
+
+HC-tree is an experimental high-concurrency database back end for SQLite
+https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html
+https://news.ycombinator.com/item?id=34434025
+
+The Computer Science Book (2020)
+https://thecomputersciencebook.com/book/
+https://news.ycombinator.com/item?id=34336213
+
+Pictures of a Working Garbage Collector
+https://www.oilshell.org/blog/2023/01/garbage-collector.html
+https://news.ycombinator.com/item?id=34350260
+
+Interesting things about the Lua interpreter (2020)
+https://thesephist.com/posts/lua/
+https://news.ycombinator.com/item?id=34213715
+
+Modules, not microservices
+http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html
+https://news.ycombinator.com/item?id=34230641
+
+LearnCPP: Website devoted to teaching you how to program in C++
+https://www.learncpp.com/
+https://news.ycombinator.com/item?id=34229802
+
+Adding “invariant” clauses to C++ via GCC plugin to enable Design-by-Contract
+https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract
+https://news.ycombinator.com/item?id=34211482
+
+Ask HN: Why did stack-based CPUs lose out?
+https://news.ycombinator.com/item?id=34198463
+https://news.ycombinator.com/item?id=34198463
+
+WebAssembly: Docker Without Containers
+https://wasmlabs.dev/articles/docker-without-containers/
+https://news.ycombinator.com/item?id=34078532
+
+Devpod: Remote development environment at Uber
+https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/
+https://news.ycombinator.com/item?id=34044784
+
+OCaml 5.0 Multicore is out
+https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974
+https://news.ycombinator.com/item?id=34013767
+
+Modern garbage collection
+https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.674yqu7mr
+https://news.ycombinator.com/item?id=13218550
+
+Beyond Functional Programming: The Verse Programming Language [pdf]
+https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf
+https://news.ycombinator.com/item?id=33946933
+
+Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity (1994) [pdf]
+https://www.cs.yale.edu/publications/techreports/tr1049.pdf
+https://news.ycombinator.com/item?id=33936366
+
+Show HN: I wrote a free eBook about many lesser-known/secret database tricks
+https://sqlfordevs.com/ebook
+https://news.ycombinator.com/item?id=33833836
+
+A Vim Guide for Advanced Users
+https://thevaluable.dev/vim-advanced/
+https://news.ycombinator.com/item?id=33811705
+
+LXD containers on macOS at near-native speeds
+https://beringresearch.github.io/macpine/lxd_macpine/
+https://news.ycombinator.com/item?id=33762657
+
+Cloudflare servers don't own IPs anymore so how do they connect to the internet?
+https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/
+https://news.ycombinator.com/item?id=33742563
+
+Deterministic Linux for controlled testing and software bug-finding
+https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/
+https://news.ycombinator.com/item?id=33708867
+
+Building the fastest Lua interpreter automatically
+https://sillycross.github.io/2022/11/22/2022-11-22/
+https://news.ycombinator.com/item?id=33711583
+
+Why is Rosetta 2 fast?
+https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
+https://news.ycombinator.com/item?id=33533132
+
+Rust and C++ Interoperability
+https://slint-ui.com/blog/rust-and-cpp.html
+https://news.ycombinator.com/item?id=33590308
+
+Rust: “Explain GATs Like I'm 5 Years Old”
+https://old.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5/
+https://news.ycombinator.com/item?id=33504650
+
+drgn: A programmable C debugger, scriptable from Python
+https://github.com/osandov/drgn
+https://news.ycombinator.com/item?id=33486962
+
+The Linux scheduler: A decade of wasted cores (2016)
+https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/
+https://news.ycombinator.com/item?id=33462345
+
+Linker, can you spare a meg? (2021)
+https://tailscale.com/blog/go-linker/
+https://news.ycombinator.com/item?id=33388978
+
+Bringing a dynamic environment to C: My linker project
+https://macoy.me/blog/programming/LinkerLoaderIntro
+https://news.ycombinator.com/item?id=33368991
+
+Linux: What Can You Epoll?
+https://darkcoding.net/software/linux-what-can-you-epoll/
+https://news.ycombinator.com/item?id=33299650
+
+Efficient IO in Linux with io_uring [pdf] (2019)
+https://kernel.dk/io_uring.pdf
+https://news.ycombinator.com/item?id=33221063
+
+Hosting SQLite databases on any static file hoster (2021)
+https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+https://news.ycombinator.com/item?id=33182417
+
+CS631 – Advanced Programming in the Unix Environment
+https://stevens.netmeister.org/631/
+https://news.ycombinator.com/item?id=33140795
+
+CMSC 430: Design and Implementation of Programming Languages
+https://www.cs.umd.edu/class/fall2022/cmsc430/index.html
+https://news.ycombinator.com/item?id=33093666
+
+Lockfree Algorithms (2010)
+https://www.1024cores.net/home/lock-free-algorithms
+https://news.ycombinator.com/item?id=32918043
+
+JDK 19 Release Notes
+https://jdk.java.net/19/release-notes
+https://news.ycombinator.com/item?id=32910348
+
+When to use Bazel?
+https://earthly.dev/blog/bazel-build/
+https://news.ycombinator.com/item?id=32828584
+
+Teaching C (2016)
+https://blog.regehr.org/archives/1393
+https://news.ycombinator.com/item?id=32798826
+
+YouTube-dl has an interpreter for a subset of JavaScript in 870 lines of Python
+https://twitter.com/zhuowei/status/1568659229887664129
+https://news.ycombinator.com/item?id=32793061
+
+Go standard library: structured, leveled logging
+https://github.com/golang/go/discussions/54763
+https://news.ycombinator.com/item?id=32800598
+
+A Brief History of Just-In-Time (2003) [pdf]
+http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf
+https://news.ycombinator.com/item?id=32718615
+
+SQLite: Past, Present, and Future
+https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future
+https://news.ycombinator.com/item?id=32675861
+
+Engineer distributes resume via IPv6 traceroute
+https://cv6.poinsignon.org/
+https://news.ycombinator.com/item?id=32609588
+
+How discord stores billions of messages (2017)
+https://discord.com/blog/how-discord-stores-billions-of-messages
+https://news.ycombinator.com/item?id=32606553
+
+Show HN: Devbox – Easy, predictable shells and containers
+https://github.com/jetpack-io/devbox
+https://news.ycombinator.com/item?id=32600821
+
+Notes on Theory of Distributed Systems [pdf]
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf
+https://news.ycombinator.com/item?id=32584845
+
+Rust – A hard decision pays off
+https://www.pinecone.io/learn/inside-the-pinecone/#rust-a-hard-decision-pays-off
+https://news.ycombinator.com/item?id=32578743
+
+Paradigms of Artificial Intelligence Programming (1992)
+https://github.com/norvig/paip-lisp
+https://news.ycombinator.com/item?id=32458048
+
+Erg: a statically typed language that is Python compatible
+https://github.com/erg-lang/erg
+https://news.ycombinator.com/item?id=32452080
+
+How SQLite Helps You Do ACID
+https://fly.io/blog/sqlite-internals-rollback-journal/
+https://news.ycombinator.com/item?id=32412905
+
+Go 1.19 Released
+https://go.dev/doc/go1.19
+https://news.ycombinator.com/item?id=32321499
+
+What’s going on with Google and Facebook hiring freezes?
+https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
+https://news.ycombinator.com/item?id=32312303
+
+Use one big server
+https://specbranch.com/posts/one-big-server/
+https://news.ycombinator.com/item?id=32319147
+
+Understanding Jane Street
+https://www.thediff.co/p/jane-street
+https://news.ycombinator.com/item?id=32314623
+
+Twenty years of Valgrind
+https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html
+https://news.ycombinator.com/item?id=32245136
+
+SQLite Internals: Pages and B-trees
+https://fly.io/blog/sqlite-internals-btree/
+https://news.ycombinator.com/item?id=32250426
+
+Treadmill garbage collector by H. Baker
+http://www.cofault.com/2022/07/treadmill.html
+https://news.ycombinator.com/item?id=32233472
+
+Code doesn’t have to be a mess
+https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html
+https://news.ycombinator.com/item?id=32224508
+
+I've started using Firefox and can never go back to Chrome
+https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome
+https://news.ycombinator.com/item?id=32126637
+
+What I wish someone would have told me about using RabbitMQ (2020)
+https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/
+https://news.ycombinator.com/item?id=32091550
+
+How I went about learning Rust
+https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/
+https://news.ycombinator.com/item?id=32104764
+
+The case against CS master’s degrees
+https://ozwrites.com/masters/
+https://news.ycombinator.com/item?id=32112793
+
+A Guide to the Go Garbage Collector
+https://tip.golang.org/doc/gc-guide
+https://news.ycombinator.com/item?id=32109301
+
+Go generics are not bad
+https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/
+https://news.ycombinator.com/item?id=32027855
+
+Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)
+http://pilimi.org/blog-introducing.html
+https://news.ycombinator.com/item?id=31970805
+
+What rr does
+https://rr-project.org/
+https://news.ycombinator.com/item?id=31617600
+
+Running Intel Binaries in Linux VMs with Rosetta
+https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc
+https://news.ycombinator.com/item?id=31644990
+
+OCaml Programming: Correct and Efficient and Beautiful
+https://cs3110.github.io/textbook/cover.html
+https://news.ycombinator.com/item?id=31848178
+
+Is the Ride over for Uber?
+https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/
+https://news.ycombinator.com/item?id=31971901
+
+A Journey into the Linux Scheduler
+https://blog.maxgio.me/posts/linux-scheduler-journey/
+https://news.ycombinator.com/item?id=31975901

@@ -24,6 +24,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Ralf Jung's blog(lot of advanced Rust things)](https://www.ralfj.de/blog)
 - [ ] [Niko Matsiakis blog(lots of Rust stuff)](https://smallcultfollowing.com/babysteps/)
 - [ ] [Fernando Borretti's blog(again super nice PL blogs)](https://borretti.me/article/)
+- [ ] [V8 blog, many memory and general optimization related things](https://v8.dev/blog)
 
 ## Must Listen Podcasts
 
@@ -61,3 +62,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Optimizing pattern matching](https://dl.acm.org/doi/10.1145/507669.507641)
 - [ ] [Bartosz Modelski's master's thesis](https://k-lifo.com/mphil.pdf)
 - [ ] [Monadic Parser Combinator (Graham Hutton)](https://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf)
+- [ ] [Some papers list,categorized as well](https://github.com/fogus/papers-i-love)
+- [ ] [Frank McSherry's blog(this guy super cool)](https://github.com/frankmcsherry/blog)
+- [ ] [Daniel Hillerström's phd dissertation(effect handlers)](https://github.com/dhil/phd-dissertation)
+- [ ] [effects-bibliography(lots of papers)](https://github.com/yallop/effects-bibliography)
