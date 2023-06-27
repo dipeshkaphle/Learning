@@ -13,3 +13,7 @@ title: "Miscellaneous Tools"
 - [ ] [The state of debugging in 2022(rr)](https://youtu.be/yCK0-vWmAsk)
 - [ ] [Sqlite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [ ] [What a good debugger can do](https://news.ycombinator.com/item?id=35092998)
+- [ ] [Perf Examples(perf is super powerful and supports so many things)](https://www.brendangregg.com/perf.html)
+- [ ] [Linux Performance(many links, by the same author of above article)](https://www.brendangregg.com/linuxperf.html)
+- [ ] [Valgrind Intro](https://web.stanford.edu/class/archive/cs/cs107/cs107.1196/resources/valgrind)
+- [ ] [Callgrind Intro](https://web.stanford.edu/class/archive/cs/cs107/cs107.1196/resources/callgrind)

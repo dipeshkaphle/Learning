@@ -31,3 +31,5 @@ title: "Miscellaneous CS"
 - [ ] [Agner Fog(see optimization manual, apparently very good)](https://www.agner.org/optimize)
 - [ ] [Dmitry Vyukov, lockfree algorithms is a goldmine](https://www.1024cores.net/)
 - [ ] [Parallel and Concurrent Algorithms, Carnegie Mellon University](https://www.cs.cmu.edu/~guyb/paralg/)
+- [ ] [perf-book](https://github.com/dendibakh/perf-book)
+- [ ] [perf-ninja](https://github.com/dendibakh/perf-ninja), [YT-playlist](https://www.youtube.com/playlist?list=PLRWO2AL1QAV6bJAU2kgB4xfodGID43Y5d)
