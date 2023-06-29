@@ -1,3 +1,15 @@
+FP2: Fully In-Place Functional Programming [pdf]
+https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf
+https://news.ycombinator.com/item?id=36471591
+
+Patterns of Distributed Systems (2022)
+https://martinfowler.com/articles/patterns-of-distributed-systems/
+https://news.ycombinator.com/item?id=36495335
+
+Optimizing a ring buffer for throughput (2021)
+https://rigtorp.se/ringbuffer/
+https://news.ycombinator.com/item?id=36489288
+
 Theory to systems: A grounded approach to programming language education (2019)
 https://arxiv.org/abs/1904.06750
 https://news.ycombinator.com/item?id=36467663

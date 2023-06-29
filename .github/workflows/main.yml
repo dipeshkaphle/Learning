@@ -3,7 +3,7 @@ on: push
 
 env:
   INDEX_TITLE: "Learning"
-  FOLDERS_TO_COPY: 
+  FOLDERS_TO_COPY:
 
 name: Build and deploy GH Pages
 jobs:
@@ -13,6 +13,10 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3.0.0
+      - name: Generate LobstersLinks.md
+        run: python parse_claw_bookmarks.py
+      - name: Generate HNLinks.md
+        run: python parse_hn_bookmarks.py
       - name: Clone dipeshkaphle.github.io
         run: git clone --depth 1 https://github.com/dipeshkaphle/dipeshkaphle.github.io
       - name: Copy templates
