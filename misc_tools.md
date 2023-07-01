@@ -17,3 +17,4 @@ title: "Miscellaneous Tools"
 - [ ] [Linux Performance(many links, by the same author of above article)](https://www.brendangregg.com/linuxperf.html)
 - [ ] [Valgrind Intro](https://web.stanford.edu/class/archive/cs/cs107/cs107.1196/resources/valgrind)
 - [ ] [Callgrind Intro](https://web.stanford.edu/class/archive/cs/cs107/cs107.1196/resources/callgrind)
+- [ ] [GDB reference card](https://github.com/hellogcc/100-gdb-tips/blob/master/refcard.pdf)

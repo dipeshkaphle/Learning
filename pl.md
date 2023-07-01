@@ -12,6 +12,7 @@ title: "Programming Languages"
 - [ ] [Theory of Computation by Michael Sipser](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 - [ ] [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
 - [ ] [Classical Papers in PL, recommendations](https://www.pls-lab.org/en/Classic_Papers_in_PL)
+- [ ] [PL-Compilers-Resources](https://github.com/shining1984/PL-Compiler-Resource)
 
 ## Overview
 
@@ -95,6 +96,7 @@ title: "Programming Languages"
 - [ ] [A lisp compiler and interpreter writing series by tekknolagi](https://bernsteinbear.com/blog/lisp/)
 - [ ] [How to compile with continutations](https://matt.might.net/articles/cps-conversion/)
 - [ ] [Design roadmap about YSH(by oilshell guy)](http://www.oilshell.org/blog/2023/06/ysh-review.html)
+- [ ] [Tao programming language(has so many cool features,see how they're implemented)](https://github.com/zesterer/tao)
 
 ## Linkers
 

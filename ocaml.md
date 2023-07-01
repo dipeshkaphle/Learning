@@ -15,3 +15,5 @@ title: "OCaml"
 - [ ] [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 - [ ] [How does a language like OCaml implement pattern matching?](https://stackoverflow.com/questions/74648858/how-does-a-language-like-ocaml-implement-pattern-matching/74653861#74653861)
 - [ ] [Ocaml Profiling(Can follow technqiues/tools used here in general too)](https://github.com/ocaml-bench/notes/blob/master/profiling_notes.md)
+- [ ] [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)
+- [ ] [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)

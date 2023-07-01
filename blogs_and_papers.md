@@ -25,6 +25,8 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Niko Matsiakis blog(lots of Rust stuff)](https://smallcultfollowing.com/babysteps/)
 - [ ] [Fernando Borretti's blog(again super nice PL blogs)](https://borretti.me/article/)
 - [ ] [V8 blog, many memory and general optimization related things](https://v8.dev/blog)
+- [ ] [Neel Krishnaswami's blog](https://semantic-domain.blogspot.com/)
+- [ ] [Michael Hick's blog](http://www.pl-enthusiast.net/)
 
 ## Must Listen Podcasts
 
