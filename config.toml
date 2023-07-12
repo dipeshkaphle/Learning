@@ -1,6 +1,7 @@
 base_url = "https://dipeshkaphle.github.io/Learning/"
 title = "Dipesh"
-build_search_index = true
+build_search_index = false
+compile_sass = true
 generate_feed = true
 minify_html = true
 
@@ -12,7 +13,7 @@ highlight_theme = "gruvbox-dark"
 
 [extra]
 use_cdn = false
-theme = "auto"
+theme = "toggle"
 mathjax = true
 mathjax_dollar_inline_enable = true
 
