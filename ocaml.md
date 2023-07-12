@@ -17,3 +17,8 @@ title: "OCaml"
 - [ ] [Ocaml Profiling(Can follow technqiues/tools used here in general too)](https://github.com/ocaml-bench/notes/blob/master/profiling_notes.md)
 - [ ] [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)
 - [ ] [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
+- [ ] [Memtrace overview](https://blog.janestreet.com/finding-memory-leaks-with-memtrace/) , [internals](https://github.com/janestreet/memtrace/blob/master/docs/internal.md)
+- [ ] [Spacetime](https://blog.janestreet.com/a-brief-trip-through-spacetime/)
+- [ ] [Discuss discussion on OCaml Compiler Design and Development](https://discuss.ocaml.org/t/ocaml-compiler-design-and-development/5823)
+- [ ] [Making OCaml5 succeed for developers and organisations(has lots of links that can be studied)](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
+- [ ] [PR for Compaction in OCaml5](https://github.com/ocaml/ocaml/pull/12193)

@@ -13,6 +13,7 @@ title: "Programming Languages"
 - [ ] [Types and Programming Languages](https://mitpress.mit.edu/books/types-and-programming-languages)
 - [ ] [Classical Papers in PL, recommendations](https://www.pls-lab.org/en/Classic_Papers_in_PL)
 - [ ] [PL-Compilers-Resources](https://github.com/shining1984/PL-Compiler-Resource)
+- [ ] [All you need is call/cc](http://pvk.ca/Blog/2013/09/19/all-you-need-is-call-slash-cc/)
 
 ## Overview
 
@@ -70,6 +71,7 @@ title: "Programming Languages"
 - [ ] [AST Grep tool](https://github.com/ast-grep/ast-grep)
 - [ ] [Comby, Tool for searching and changing code structure](https://github.com/comby-tools/comby)
 - [x] [Parser Parser Combinators(Talk about Comby)](https://youtu.be/JMZLBB_BFNg)
+- [ ] [Making a Language(information about typechecker, looks good)](https://thunderseethe.dev/series/making-a-language/)
 
 ## Virtual Machine
 
@@ -97,6 +99,10 @@ title: "Programming Languages"
 - [ ] [How to compile with continutations](https://matt.might.net/articles/cps-conversion/)
 - [ ] [Design roadmap about YSH(by oilshell guy)](http://www.oilshell.org/blog/2023/06/ysh-review.html)
 - [ ] [Tao programming language(has so many cool features,see how they're implemented)](https://github.com/zesterer/tao)
+- [ ] [Alexis King - “Effects for Less” @ ZuriHac 2020(content is just madd)](https://www.youtube.com/live/0jI-AlWEwYI?feature=share) , [GHC proposal link](https://github.com/ghc-proposals/ghc-proposals/pull/313)
+- [ ] [Blog for Kalyn(Compiled Typed Haskell like Lisp)](https://intuitiveexplanations.com/tech/kalyn)
+- [ ] [Alexis King - "Delimited Continuations, Demystified"](https://youtu.be/TE48LsgVlIU), [same talk ZuriHac 2023](https://youtu.be/DRFsodbxHQo)
+- [ ] [GHC Reading List](https://gitlab.haskell.org/ghc/ghc/-/wikis/reading-list)
 
 ## Linkers
 
@@ -107,6 +113,7 @@ title: "Programming Languages"
 - [ ] [CIS 341 - Compilers(Has very nice assignments) ](https://www.seas.upenn.edu/~cis341/current/)
 - [ ] [CSE 131 - Compiler Construction(Haskell) ](https://podcast.ucsd.edu/watch/wi18/cse131_a00/5/screen)
 - [ ] [CSE 131 - Compiler Construction(Ocaml) ](https://ucsd-cse131-f19.github.io/)
+- [ ] [CSE 131/231- Compiler Construction(Rust)](https://ucsd-compilers-s23.github.io/index.html#schedule)
 - [ ] [CMU Compilers Course by Jan Hoffman](https://www.cs.cmu.edu/~janh/courses/411/23/)
 - [ ] [Essentials of Compilation Course and Book](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 - [ ] [Course on VMs and Managed Runtimes](http://www.wolczko.com/CS294/)

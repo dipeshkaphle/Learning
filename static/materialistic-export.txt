@@ -1,3 +1,63 @@
+Back-end parallelism in the Rust compiler
+https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html
+https://news.ycombinator.com/item?id=36678457
+
+An ARM Assembler Written in Lisp
+http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237
+https://news.ycombinator.com/item?id=36646277
+
+If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython
+https://discuss.python.org/t/a-fast-free-threading-python/27903/99
+https://news.ycombinator.com/item?id=36643670
+
+Sleeping through the technical interview (2022)
+https://xeiaso.net/blog/sleeping-the-technical-interview
+https://news.ycombinator.com/item?id=36635489
+
+{n} times faster than C
+https://owen.cafe/posts/six-times-faster-than-c/
+https://news.ycombinator.com/item?id=36618344
+
+Backend of Meta Threads is built with Python 3.10
+https://twitter.com/llanga/status/1676846870520291329
+https://news.ycombinator.com/item?id=36612835
+
+Regex Engine Internals as a Library
+https://blog.burntsushi.net/regex-internals/
+https://news.ycombinator.com/item?id=36600263
+
+Designing a Language Without a Parser
+https://thunderseethe.dev/posts/type-inference/
+https://news.ycombinator.com/item?id=36591079
+
+Type system updates: moving from research into development
+https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/
+https://news.ycombinator.com/item?id=36591313
+
+How to think about `async`/`await` in Rust
+http://cliffle.com/blog/async-inversion/
+https://news.ycombinator.com/item?id=36570321
+
+Ask HN: Could you share your personal blog here?
+https://news.ycombinator.com/item?id=36575081
+https://news.ycombinator.com/item?id=36575081
+
+Joins 13 Ways
+https://justinjaffray.com/joins-13-ways/?a=b
+https://news.ycombinator.com/item?id=36575784
+
+File for divorce from LLVM
+https://github.com/ziglang/zig/issues/16270
+https://news.ycombinator.com/item?id=36529456
+
+Racket: Lisp for the modern day
+https://www.deusinmachina.net/p/racket-the-scheme-you-should-try
+https://news.ycombinator.com/item?id=36519359
+
+Programming languages going above and beyond
+https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/
+https://news.ycombinator.com/item?id=36519497
+
 FP2: Fully In-Place Functional Programming [pdf]
 https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf
 https://news.ycombinator.com/item?id=36471591

@@ -27,6 +27,11 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [V8 blog, many memory and general optimization related things](https://v8.dev/blog)
 - [ ] [Neel Krishnaswami's blog](https://semantic-domain.blogspot.com/)
 - [ ] [Michael Hick's blog](http://www.pl-enthusiast.net/)
+- [ ] [Nicholas Nethercote(lots of stuff about rust, valgrind)](https://nnethercote.github.io/)
+
+# Misc blogs
+
+- [ ] [How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html?s=08)
 
 ## Must Listen Podcasts
 
@@ -68,3 +73,4 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Frank McSherry's blog(this guy super cool)](https://github.com/frankmcsherry/blog)
 - [ ] [Daniel Hillerström's phd dissertation(effect handlers)](https://github.com/dhil/phd-dissertation)
 - [ ] [effects-bibliography(lots of papers)](https://github.com/yallop/effects-bibliography)
+- [ ] [Distributed Systems Papers](http://dancres.github.io/Pages/)
