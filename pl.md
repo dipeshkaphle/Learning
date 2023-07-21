@@ -14,6 +14,8 @@ title: "Programming Languages"
 - [ ] [Classical Papers in PL, recommendations](https://www.pls-lab.org/en/Classic_Papers_in_PL)
 - [ ] [PL-Compilers-Resources](https://github.com/shining1984/PL-Compiler-Resource)
 - [ ] [All you need is call/cc](http://pvk.ca/Blog/2013/09/19/all-you-need-is-call-slash-cc/)
+- [ ] [Racket evaluation model(has a bit of stuff on continuation)](https://docs.racket-lang.org/reference/eval-model.html)
+- [ ] [Racket continuations](https://docs.racket-lang.org/reference/cont.html)
 
 ## Overview
 
@@ -58,6 +60,7 @@ title: "Programming Languages"
 - [ ] [Whippet, towards a new local maximum(more posts about GC present in the site)](https://wingolog.org/archives/2023/02/07/whippet-towards-a-new-local-maximum)
 - [ ] [Deep Dive into ZGC, a modern garbage collector](https://dl.acm.org/doi/abs/10.1145/3538532)
 - [ ] [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
+- [ ] [LuaJIT quad color GC](https://web.archive.org/web/20220107060536/http://wiki.luajit.org/New-Garbage-Collector)
 
 ## Compiler Optimizations
 
@@ -103,6 +106,7 @@ title: "Programming Languages"
 - [ ] [Blog for Kalyn(Compiled Typed Haskell like Lisp)](https://intuitiveexplanations.com/tech/kalyn)
 - [ ] [Alexis King - "Delimited Continuations, Demystified"](https://youtu.be/TE48LsgVlIU), [same talk ZuriHac 2023](https://youtu.be/DRFsodbxHQo)
 - [ ] [GHC Reading List](https://gitlab.haskell.org/ghc/ghc/-/wikis/reading-list)
+- [ ] [Mapping High level constructs to LLVM IR](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
 
 ## Linkers
 

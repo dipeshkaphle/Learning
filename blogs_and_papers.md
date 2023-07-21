@@ -28,6 +28,9 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Neel Krishnaswami's blog](https://semantic-domain.blogspot.com/)
 - [ ] [Michael Hick's blog](http://www.pl-enthusiast.net/)
 - [ ] [Nicholas Nethercote(lots of stuff about rust, valgrind)](https://nnethercote.github.io/)
+- [ ] [Retrofitting Temporal Memory Safety on C++(HN Discussion)](https://news.ycombinator.com/item?id=31762574)
+- [ ] [Russ Cox blog](https://research.swtch.com/)
+- [ ] [Hillel Wayne Blogs](https://www.hillelwayne.com/post/)
 
 # Misc blogs
 
@@ -45,6 +48,7 @@ title: "Blogs, Papers and Podcasts"
   - #13 C/C++, Emacs, Haskell, and Coq. The Journey
   - #23 What is the SIGPLAN?
 - [Corecursive podcast](https://corecursive.com/)
+- [TheForkJoin podcast](https://www.youtube.com/@theforkjoin)
 
 ## Papers Reading List
 
