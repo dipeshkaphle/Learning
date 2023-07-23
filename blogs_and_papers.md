@@ -31,6 +31,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Retrofitting Temporal Memory Safety on C++(HN Discussion)](https://news.ycombinator.com/item?id=31762574)
 - [ ] [Russ Cox blog](https://research.swtch.com/)
 - [ ] [Hillel Wayne Blogs](https://www.hillelwayne.com/post/)
+- [ ] [CS6120 Blogs](https://www.cs.cornell.edu/courses/cs6120/2022sp/blog/), [2019 version blogs](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/) , [2020 version blog](https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/)
 
 # Misc blogs
 
@@ -78,3 +79,4 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Daniel Hillerström's phd dissertation(effect handlers)](https://github.com/dhil/phd-dissertation)
 - [ ] [effects-bibliography(lots of papers)](https://github.com/yallop/effects-bibliography)
 - [ ] [Distributed Systems Papers](http://dancres.github.io/Pages/)
+- [ ] [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)

@@ -22,3 +22,4 @@ title: "OCaml"
 - [ ] [Discuss discussion on OCaml Compiler Design and Development](https://discuss.ocaml.org/t/ocaml-compiler-design-and-development/5823)
 - [ ] [Making OCaml5 succeed for developers and organisations(has lots of links that can be studied)](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
 - [ ] [PR for Compaction in OCaml5](https://github.com/ocaml/ocaml/pull/12193)
+- [ ] [Profiling in OCaml](https://ocaml.org/docs/profiling)

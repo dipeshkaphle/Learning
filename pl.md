@@ -16,6 +16,7 @@ title: "Programming Languages"
 - [ ] [All you need is call/cc](http://pvk.ca/Blog/2013/09/19/all-you-need-is-call-slash-cc/)
 - [ ] [Racket evaluation model(has a bit of stuff on continuation)](https://docs.racket-lang.org/reference/eval-model.html)
 - [ ] [Racket continuations](https://docs.racket-lang.org/reference/cont.html)
+- [ ] [Type System for Memory Safety](another banger by borretti)
 
 ## Overview
 

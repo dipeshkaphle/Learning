@@ -13,6 +13,7 @@ title: "Rust"
 - [ ] [Rust Atomics and Locks](https://marabos.nl/atomics/)
 - [ ] [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 - [ ] [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
+- [ ] [The little book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 
 ## Videos
 
