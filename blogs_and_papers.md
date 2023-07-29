@@ -34,14 +34,15 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Hillel Wayne Blogs](https://www.hillelwayne.com/post/)
 - [ ] [CS6120 Blogs](https://www.cs.cornell.edu/courses/cs6120/2022sp/blog/), [2019 version blogs](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/) , [2020 version blog](https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/)
 - [ ] [Nice blogs on C++/Clang mostly](https://blog.trailofbits.com/)
-- [X] [The best refactoring you've never heard of](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
+- [x] [The best refactoring you've never heard of](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 - [ ] [The best multicore-parallelization refactoring you've never heard of](https://www.andrew.cmu.edu/user/mrainey/papers/pardefunc.pdf)
 - [ ] [More stuff on Delimited Continuations](https://ps-tuebingen-courses.github.io/pl1-lecture-notes/19-shift-reset/shift-reset.html)
 - [ ] [Continuation and Delimited Control](https://okmij.org/ftp/continuations/#tutorial)
 - [ ] [Yield : Mainstream Delimited Continuations; "yield" from different languages compared and formalized](http://lambda-the-ultimate.org/node/4349)
 - [ ] [Too many cool topics in this site(See especially Types, Metaprogramming and Continuation related things)](https://okmij.org/ftp/)
 - [ ] [Way too much information about C++ coroutines](https://lewissbaker.github.io/)
-  
+- [ ] [mcyoung's blog(very nice systems and rust related posts)](https://mcyoung.xyz/posts.html)
+
 # Misc blogs
 
 - [ ] [How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html?s=08)
