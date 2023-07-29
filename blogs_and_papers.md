@@ -4,6 +4,7 @@ title: "Blogs, Papers and Podcasts"
 
 # Blogs and Podcasts
 
+- [ ] [CSS tutorial series(looks nice)](https://cohost.org/lexyeevee/post/495441-css-for-css-baby-1)
 - [ ] [Making Sense of Acquire Release Semantics](https://davekilian.com/acquire-release.html)
 - [ ] [Tech Blogs Worth Reading by Austin Henley(Lots of nice blogs mentioned)](https://austinhenley.com/blog/favblogs.html)
 - [ ] Steve Yegge Blogs [Old Blog](https://sites.google.com/site/steveyegge2/blog-rants) [New Blog](https://steve-yegge.blogspot.com/)
@@ -32,6 +33,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Russ Cox blog](https://research.swtch.com/)
 - [ ] [Hillel Wayne Blogs](https://www.hillelwayne.com/post/)
 - [ ] [CS6120 Blogs](https://www.cs.cornell.edu/courses/cs6120/2022sp/blog/), [2019 version blogs](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/) , [2020 version blog](https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/)
+- [ ] [Nice blogs on C++/Clang mostly](https://blog.trailofbits.com/)
 
 # Misc blogs
 
@@ -80,3 +82,5 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [effects-bibliography(lots of papers)](https://github.com/yallop/effects-bibliography)
 - [ ] [Distributed Systems Papers](http://dancres.github.io/Pages/)
 - [ ] [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
+- [ ] [Making the Global Interpreter Lock optional in CPython(covers quite a lot of python internals)](https://peps.python.org/pep-0703/)
+- [ ] [Project Loom proposal Java](https://cr.openjdk.org/~rpressler/loom/Loom-Proposal.html)

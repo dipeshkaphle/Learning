@@ -17,6 +17,10 @@ title: "Programming Languages"
 - [ ] [Racket evaluation model(has a bit of stuff on continuation)](https://docs.racket-lang.org/reference/eval-model.html)
 - [ ] [Racket continuations](https://docs.racket-lang.org/reference/cont.html)
 - [ ] [Type System for Memory Safety](another banger by borretti)
+- [ ] [Programming Languages Research (many papers and links consolidated here)](https://github.com/imteekay/programming-language-research)
+- [ ] [How to read inference rules](https://cohost.org/prophet/post/2248211-how-to-read-inferenc)
+- [ ] [ACM India summer School on PL and optimizations](https://archive.nptel.ac.in/courses/128/106/128106018/)
+- [ ] [ACM India Summer School on Programming Languages(Thing of more interest is Program Semantics lectures(done in F\*))](https://archive.nptel.ac.in/courses/128/106/128106013/)
 
 ## Overview
 
@@ -76,6 +80,7 @@ title: "Programming Languages"
 - [ ] [Comby, Tool for searching and changing code structure](https://github.com/comby-tools/comby)
 - [x] [Parser Parser Combinators(Talk about Comby)](https://youtu.be/JMZLBB_BFNg)
 - [ ] [Making a Language(information about typechecker, looks good)](https://thunderseethe.dev/series/making-a-language/)
+- [ ] [GCC Translation Validation(uses smt with gcc)](https://kristerw.github.io/2022/09/13/translation-validation/)
 
 ## Virtual Machine
 

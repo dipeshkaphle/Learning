@@ -37,6 +37,7 @@ title: "C++"
 - [ ] [Rust and C++ Interoperability](https://news.ycombinator.com/item?id=33590308)
 - [ ] [C++ Coroutines](https://news.ycombinator.com/item?id=34898130)
 - [ ] [Making Sense of Acquire Release Semantics](https://davekilian.com/acquire-release.html)
+- [ ] [Some clang related blogs](https://blog.trailofbits.com/)
 
 ## Messed up templates stuff
 
