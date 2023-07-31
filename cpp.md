@@ -38,6 +38,7 @@ title: "C++"
 - [ ] [C++ Coroutines](https://news.ycombinator.com/item?id=34898130)
 - [ ] [Making Sense of Acquire Release Semantics](https://davekilian.com/acquire-release.html)
 - [ ] [Some clang related blogs](https://blog.trailofbits.com/)
+- [X] [Fibers under the magnifying glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 
 ## Messed up templates stuff
 
