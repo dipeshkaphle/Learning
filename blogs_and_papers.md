@@ -40,6 +40,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Continuation and Delimited Control](https://okmij.org/ftp/continuations/#tutorial)
 - [ ] [Yield : Mainstream Delimited Continuations; "yield" from different languages compared and formalized](http://lambda-the-ultimate.org/node/4349)
 - [ ] [Too many cool topics in this site(See especially Types, Metaprogramming and Continuation related things)](https://okmij.org/ftp/)
+- [ ] [Way too much information about C++ coroutines](https://lewissbaker.github.io/)
   
 # Misc blogs
 

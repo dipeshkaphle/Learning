@@ -34,3 +34,4 @@ title: "Miscellaneous CS"
 - [ ] [Parallel and Concurrent Algorithms, Carnegie Mellon University](https://www.cs.cmu.edu/~guyb/paralg/)
 - [ ] [perf-book](https://github.com/dendibakh/perf-book)
 - [ ] [perf-ninja](https://github.com/dendibakh/perf-ninja), [YT-playlist](https://www.youtube.com/playlist?list=PLRWO2AL1QAV6bJAU2kgB4xfodGID43Y5d)
+- [ ] [Has a lot of cool design patterns(found this page while looking for Event Sourcing Pattern)](https://learn.microsoft.com/en-us/azure/architecture/patterns/)

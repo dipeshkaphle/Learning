@@ -39,7 +39,9 @@ title: "C++"
 - [ ] [Making Sense of Acquire Release Semantics](https://davekilian.com/acquire-release.html)
 - [ ] [Some clang related blogs](https://blog.trailofbits.com/)
 - [X] [Fibers under the magnifying glass](https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
-
+- [ ] [Way too much information about C++ coroutines](https://lewissbaker.github.io/)
+- [ ] [C++ coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
+ 
 ## Messed up templates stuff
 
 - [ ] [TMP Lisp](https://github.com/tdp2110/TmpLisp)
