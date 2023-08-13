@@ -23,3 +23,5 @@ title: "OCaml"
 - [ ] [Making OCaml5 succeed for developers and organisations(has lots of links that can be studied)](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
 - [ ] [PR for Compaction in OCaml5](https://github.com/ocaml/ocaml/pull/12193)
 - [ ] [Profiling in OCaml](https://ocaml.org/docs/profiling)
+- [ ] [kcas 1/2](https://tarides.com/blog/2023-08-07-kcas-building-a-lock-free-stm-for-ocaml-1-2/)
+- [ ] [kcas 2/2](https://tarides.com/blog/2023-08-10-kcas-building-a-lock-free-stm-for-ocaml-2-2/)

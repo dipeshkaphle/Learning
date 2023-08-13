@@ -14,6 +14,7 @@ title: "Rust"
 - [ ] [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 - [ ] [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [ ] [The little book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
+- [ ] [Learning async rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/?s=08)
 
 ## Videos
 

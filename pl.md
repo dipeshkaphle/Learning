@@ -19,6 +19,7 @@ title: "Programming Languages"
 - [ ] [Type System for Memory Safety](another banger by borretti)
 - [ ] [Programming Languages Research (many papers and links consolidated here)](https://github.com/imteekay/programming-language-research)
 - [ ] [How to read inference rules](https://cohost.org/prophet/post/2248211-how-to-read-inferenc)
+- [ ] [How should I read type system notation?(by lexilambda)](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
 - [ ] [ACM India summer School on PL and optimizations](https://archive.nptel.ac.in/courses/128/106/128106018/)
 - [ ] [ACM India Summer School on Programming Languages(Thing of more interest is Program Semantics lectures(done in F\*))](https://archive.nptel.ac.in/courses/128/106/128106013/)
 
@@ -26,6 +27,7 @@ title: "Programming Languages"
 
 - [ ] [Crafting Interpreter](http://www.craftinginterpreters.com/)
 - [ ] [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [ ] [Let's Learn X86-64 Assembly](https://gpfault.net/posts/asm-tut-3.txt.html?s=08)
 
 ## Compiler Architecture
 
@@ -81,6 +83,7 @@ title: "Programming Languages"
 - [x] [Parser Parser Combinators(Talk about Comby)](https://youtu.be/JMZLBB_BFNg)
 - [ ] [Making a Language(information about typechecker, looks good)](https://thunderseethe.dev/series/making-a-language/)
 - [ ] [GCC Translation Validation(uses smt with gcc)](https://kristerw.github.io/2022/09/13/translation-validation/)
+- [ ] [Not exactly educational, but FStar wiki seems very comprehensive(I want to read all of this sooo badly)](https://github.com/FStarLang/FStar/wiki)
 
 ## Virtual Machine
 
@@ -113,6 +116,7 @@ title: "Programming Languages"
 - [ ] [Alexis King - "Delimited Continuations, Demystified"](https://youtu.be/TE48LsgVlIU), [same talk ZuriHac 2023](https://youtu.be/DRFsodbxHQo)
 - [ ] [GHC Reading List](https://gitlab.haskell.org/ghc/ghc/-/wikis/reading-list)
 - [ ] [Mapping High level constructs to LLVM IR](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
+- [ ] [Program Analysis Resources(very comprehensive)](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
 
 ## Linkers
 

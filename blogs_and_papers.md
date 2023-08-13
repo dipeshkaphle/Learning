@@ -42,6 +42,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Too many cool topics in this site(See especially Types, Metaprogramming and Continuation related things)](https://okmij.org/ftp/)
 - [ ] [Way too much information about C++ coroutines](https://lewissbaker.github.io/)
 - [ ] [mcyoung's blog(very nice systems and rust related posts)](https://mcyoung.xyz/posts.html)
+- [ ] [MeloSpace notes(has distsys paper summaries and some more cool things in blogs)](https://melodiessim.netlify.app/notes/)
 
 # Misc blogs
 
