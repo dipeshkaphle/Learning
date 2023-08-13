@@ -84,6 +84,7 @@ title: "Programming Languages"
 - [ ] [Making a Language(information about typechecker, looks good)](https://thunderseethe.dev/series/making-a-language/)
 - [ ] [GCC Translation Validation(uses smt with gcc)](https://kristerw.github.io/2022/09/13/translation-validation/)
 - [ ] [Not exactly educational, but FStar wiki seems very comprehensive(I want to read all of this sooo badly)](https://github.com/FStarLang/FStar/wiki)
+- [ ] [Hackett by lexilambda](https://github.com/lexi-lambda/hackett)
 
 ## Virtual Machine
 
@@ -136,3 +137,4 @@ title: "Programming Languages"
 - [ ] [Software Foundations(Course Cornell)](https://youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)
 - [ ] [Software Foundations Books](https://softwarefoundations.cis.upenn.edu/index.html)
 - [ ] [An introduction to creating a C compiler for those who want to know the lower layers(In Japanese, so have to translate)](https://www-sigbus-info.translate.goog/compilerbook?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en)
+- [ ] [PL Class by Edward Z Yangz](https://youtube.com/playlist?list=PL9sqUxos-K_dOV8k2q6JZN-u78BNJVhwd), [materials link( i think )](https://github.com/ezyang/pl-class-public)

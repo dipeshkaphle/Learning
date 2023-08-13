@@ -43,6 +43,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Way too much information about C++ coroutines](https://lewissbaker.github.io/)
 - [ ] [mcyoung's blog(very nice systems and rust related posts)](https://mcyoung.xyz/posts.html)
 - [ ] [MeloSpace notes(has distsys paper summaries and some more cool things in blogs)](https://melodiessim.netlify.app/notes/)
+- [ ] [WebAssembly and replayable functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/?s=08), other blogs by the author are also cool
 
 # Misc blogs
 
