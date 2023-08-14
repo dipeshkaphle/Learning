@@ -43,8 +43,9 @@ title: "Programming Languages"
 
 - [ ] [Adventures in JIT Compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
 - [ ] [Rhizome - a JIT for Ruby, implemented in pure Ruby](https://github.com/chrisseaton/rhizome)
+- [ ] [Kipply's blog(lots of content relating to JIT)](https://kipp.ly/)
 
-### Functional Languages
+## Functional Languages
 
 - [ ] [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf) -
       by Simon Peyton Jones
@@ -85,6 +86,10 @@ title: "Programming Languages"
 - [ ] [GCC Translation Validation(uses smt with gcc)](https://kristerw.github.io/2022/09/13/translation-validation/)
 - [ ] [Not exactly educational, but FStar wiki seems very comprehensive(I want to read all of this sooo badly)](https://github.com/FStarLang/FStar/wiki)
 - [ ] [Hackett by lexilambda](https://github.com/lexi-lambda/hackett)
+- [ ] [labrys](https://github.com/kit-ty-kate/labrys)
+- [ ] [llvm-tutor](https://github.com/banach-space/llvm-tutor)
+- [ ] [lura(IDE focused programming language study)](https://github.com/aripiprazole/lura)
+- [ ] [Soft(Lisp that compiles to LLVM)](https://github.com/aripiprazole/soft)
 
 ## Virtual Machine
 

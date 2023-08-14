@@ -44,6 +44,9 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [mcyoung's blog(very nice systems and rust related posts)](https://mcyoung.xyz/posts.html)
 - [ ] [MeloSpace notes(has distsys paper summaries and some more cool things in blogs)](https://melodiessim.netlify.app/notes/)
 - [ ] [WebAssembly and replayable functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/?s=08), other blogs by the author are also cool
+- [ ] [System Design Interviews Overview](https://kipp.ly/system-design-interviews/)
+- [ ] [Ideas for Programmers Looking Beyond Web Development](https://kipp.ly/past-webdev/?s=08)
+- [ ] [Good blogs by Kipply](https://kipp.ly/)
 
 # Misc blogs
 
