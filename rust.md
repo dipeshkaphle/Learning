@@ -33,3 +33,10 @@ title: "Rust"
 - [ ] [HN Discussion on "Thoughts on what a next Rust compiler would do" by Alex Kladov](https://news.ycombinator.com/item?id=34537969)
 - [ ] [Rust and C++ Interoperability](https://news.ycombinator.com/item?id=33590308)
 - [ ] [Explain GATs like I'm 5 years old](https://news.ycombinator.com/item?id=33504650)
+
+## Internals and Design/Architecture docs of compiler
+
+- [ ] [Chalk(Chalk is a library that implements the Rust trait system, based on Prolog-ish logic rules.)](https://github.com/rust-lang/chalk)
+- [ ] [Rust Analyzer Dev Docs](https://github.com/rust-lang/rust-analyzer/tree/master/docs/dev)
+- [ ] [Rustc Dev Guide](https://rustc-dev-guide.rust-lang.org/index.html)
+- [ ] [Salsa documentations(used by rustc(ig cuz niko has videos on salsa) and rust-analyzer)](https://salsa-rs.github.io/salsa/about_salsa.html)
