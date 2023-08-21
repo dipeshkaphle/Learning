@@ -16,7 +16,7 @@ title: "Programming Languages"
 - [ ] [All you need is call/cc](http://pvk.ca/Blog/2013/09/19/all-you-need-is-call-slash-cc/)
 - [ ] [Racket evaluation model(has a bit of stuff on continuation)](https://docs.racket-lang.org/reference/eval-model.html)
 - [ ] [Racket continuations](https://docs.racket-lang.org/reference/cont.html)
-- [ ] [Type System for Memory Safety](another banger by borretti)
+- [ ] [Type System for Memory Safety(another banger by borretti)](https://borretti.me/article/type-systems-memory-safety)
 - [ ] [Programming Languages Research (many papers and links consolidated here)](https://github.com/imteekay/programming-language-research)
 - [ ] [How to read inference rules](https://cohost.org/prophet/post/2248211-how-to-read-inferenc)
 - [ ] [How should I read type system notation?(by lexilambda)](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
@@ -90,6 +90,7 @@ title: "Programming Languages"
 - [ ] [llvm-tutor](https://github.com/banach-space/llvm-tutor)
 - [ ] [lura(IDE focused programming language study)](https://github.com/aripiprazole/lura)
 - [ ] [Soft(Lisp that compiles to LLVM)](https://github.com/aripiprazole/soft)
+- [ ] [Wasm reference interpreter in OCaml](https://github.com/WebAssembly/spec/tree/main/interpreter)
 
 ## Virtual Machine
 
