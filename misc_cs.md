@@ -35,3 +35,4 @@ title: "Miscellaneous CS"
 - [ ] [perf-book](https://github.com/dendibakh/perf-book)
 - [ ] [perf-ninja](https://github.com/dendibakh/perf-ninja), [YT-playlist](https://www.youtube.com/playlist?list=PLRWO2AL1QAV6bJAU2kgB4xfodGID43Y5d)
 - [ ] [Has a lot of cool design patterns(found this page while looking for Event Sourcing Pattern)](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- [ ] [Series of articles on The internals of PostgreSQL](https://www.interdb.jp/pg/index.html?s=08)

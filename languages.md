@@ -31,3 +31,7 @@ title: "Languages"
 ## Golang
 
 - [ ] [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency ](https://youtu.be/-K11rY57K7k)
+
+## Python
+
+- [ ] [Gil removal and faster CPython project](https://lwn.net/Articles/939981/?s=08)

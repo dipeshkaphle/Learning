@@ -91,6 +91,8 @@ title: "Programming Languages"
 - [ ] [lura(IDE focused programming language study)](https://github.com/aripiprazole/lura)
 - [ ] [Soft(Lisp that compiles to LLVM)](https://github.com/aripiprazole/soft)
 - [ ] [Wasm reference interpreter in OCaml](https://github.com/WebAssembly/spec/tree/main/interpreter)
+- [ ] [Mukul Rathi's Bolt(has a series of blog posts explaining implementation)](https://github.com/mukul-rathi/bolt)
+- [ ] [Carbon Design Documents](https://github.com/carbon-language/carbon-lang/tree/trunk/docs/design)
 
 ## Virtual Machine
 
@@ -144,3 +146,5 @@ title: "Programming Languages"
 - [ ] [Software Foundations Books](https://softwarefoundations.cis.upenn.edu/index.html)
 - [ ] [An introduction to creating a C compiler for those who want to know the lower layers(In Japanese, so have to translate)](https://www-sigbus-info.translate.goog/compilerbook?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en)
 - [ ] [PL Class by Edward Z Yangz](https://youtube.com/playlist?list=PL9sqUxos-K_dOV8k2q6JZN-u78BNJVhwd), [materials link( i think )](https://github.com/ezyang/pl-class-public)
+- [ ] [Advanced Functional Programming(in Agda with videos)](https://github.com/pigworker/CS410-18/tree/master?s=08)
+- [ ] [Programming languages(follows TAPL and content looks great)](https://www3.nd.edu/~dchiang/teaching/pl/2022/index.html)

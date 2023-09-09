@@ -13,6 +13,8 @@ title: "OCaml"
 - [ ] [Implementing typeclasses as OCaml modules](https://blog.shaynefletcher.org/2016/10/implementing-type-classes-as-ocaml.html)
 - [ ] [Modules Matter Most for the masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 - [ ] [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
+- [ ] [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
+- [ ] [Oxidizing OCaml: Data Race Freedom](https://blog.janestreet.com/oxidizing-ocaml-parallelism/)
 - [ ] [How does a language like OCaml implement pattern matching?](https://stackoverflow.com/questions/74648858/how-does-a-language-like-ocaml-implement-pattern-matching/74653861#74653861)
 - [ ] [Ocaml Profiling(Can follow technqiues/tools used here in general too)](https://github.com/ocaml-bench/notes/blob/master/profiling_notes.md)
 - [ ] [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)

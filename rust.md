@@ -33,6 +33,7 @@ title: "Rust"
 - [ ] [HN Discussion on "Thoughts on what a next Rust compiler would do" by Alex Kladov](https://news.ycombinator.com/item?id=34537969)
 - [ ] [Rust and C++ Interoperability](https://news.ycombinator.com/item?id=33590308)
 - [ ] [Explain GATs like I'm 5 years old](https://news.ycombinator.com/item?id=33504650)
+- [ ] [Pin, Unpin and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust/?s=08)
 
 ## Internals and Design/Architecture docs of compiler
 

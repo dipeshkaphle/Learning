@@ -47,6 +47,9 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [System Design Interviews Overview](https://kipp.ly/system-design-interviews/)
 - [ ] [Ideas for Programmers Looking Beyond Web Development](https://kipp.ly/past-webdev/?s=08)
 - [ ] [Good blogs by Kipply](https://kipp.ly/)
+- [ ] [Brian Callahan's blog(Lots of Compiler stuff)](https://briancallahan.net/blog/archive.html)
+- [ ] [Lots of articles/resources on Typescript compiler , compilers, books, web performance stuff](https://www.iamtk.co/?s=08)
+- [ ] [Type checker + Compiler Stuff](https://veera.app/)
 
 # Misc blogs
 
