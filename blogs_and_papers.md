@@ -50,6 +50,11 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Brian Callahan's blog(Lots of Compiler stuff)](https://briancallahan.net/blog/archive.html)
 - [ ] [Lots of articles/resources on Typescript compiler , compilers, books, web performance stuff](https://www.iamtk.co/?s=08)
 - [ ] [Type checker + Compiler Stuff](https://veera.app/)
+- [ ] [Martin Kleppman blog](https://martin.kleppmann.com/)
+- [ ] [Aphyr blogs, lots of distsys stuff](https://aphyr.com/posts)
+- [ ] [Jepsen tagged posts on aphyr](https://aphyr.com/tags/jepsen)
+- [ ] [FoundationDB blogs(lottt of distsys + db content, I need to read this someday)](https://apple.github.io/foundationdb/contents.html)
+- [ ] [Ted Kaminski blog(matklad recommends to read all of this in chronological order)](https://www.tedinski.com/archive/)
 
 # Misc blogs
 
