@@ -22,6 +22,7 @@ title: "Programming Languages"
 - [ ] [How should I read type system notation?(by lexilambda)](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
 - [ ] [ACM India summer School on PL and optimizations](https://archive.nptel.ac.in/courses/128/106/128106018/)
 - [ ] [ACM India Summer School on Programming Languages(Thing of more interest is Program Semantics lectures(done in F\*))](https://archive.nptel.ac.in/courses/128/106/128106013/)
+- [ ] [ACM Summer School on Compiler Design and construction(uses some llvm)](https://nptel.ac.in/courses/128106009)
 
 ## Overview
 
@@ -93,6 +94,8 @@ title: "Programming Languages"
 - [ ] [Wasm reference interpreter in OCaml](https://github.com/WebAssembly/spec/tree/main/interpreter)
 - [ ] [Mukul Rathi's Bolt(has a series of blog posts explaining implementation)](https://github.com/mukul-rathi/bolt)
 - [ ] [Carbon Design Documents](https://github.com/carbon-language/carbon-lang/tree/trunk/docs/design)
+- [ ] [Trustfall(super cool thing)](https://github.com/obi1kenobi/trustfall)
+- [ ] [Extensive tutorial of Hindley Milner](https://github.com/quchen/articles/blob/master/hindley-milner/README.md)
 
 ## Virtual Machine
 
@@ -120,12 +123,16 @@ title: "Programming Languages"
 - [ ] [How to compile with continutations](https://matt.might.net/articles/cps-conversion/)
 - [ ] [Design roadmap about YSH(by oilshell guy)](http://www.oilshell.org/blog/2023/06/ysh-review.html)
 - [ ] [Tao programming language(has so many cool features,see how they're implemented)](https://github.com/zesterer/tao)
-- [ ] [Alexis King - “Effects for Less” @ ZuriHac 2020(content is just madd)](https://www.youtube.com/live/0jI-AlWEwYI?feature=share) , [GHC proposal link](https://github.com/ghc-proposals/ghc-proposals/pull/313)
+- [ ] [Alexis King - “Effects for Less” @ ZuriHac 2020(content is just madd)](https://www.youtube.com/live/0jI-AlWEwYI?feature=share)
+      ,
+      [GHC proposal link](https://github.com/ghc-proposals/ghc-proposals/pull/313)
 - [ ] [Blog for Kalyn(Compiled Typed Haskell like Lisp)](https://intuitiveexplanations.com/tech/kalyn)
-- [ ] [Alexis King - "Delimited Continuations, Demystified"](https://youtu.be/TE48LsgVlIU), [same talk ZuriHac 2023](https://youtu.be/DRFsodbxHQo)
+- [ ] [Alexis King - "Delimited Continuations, Demystified"](https://youtu.be/TE48LsgVlIU),
+      [same talk ZuriHac 2023](https://youtu.be/DRFsodbxHQo)
 - [ ] [GHC Reading List](https://gitlab.haskell.org/ghc/ghc/-/wikis/reading-list)
 - [ ] [Mapping High level constructs to LLVM IR](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
 - [ ] [Program Analysis Resources(very comprehensive)](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
+- [ ] [Learning Resources for Clang libraries](https://discourse.llvm.org/t/new-learning-resource-for-clang-libraries-slide-deck-and-code-examples/67604)
 
 ## Linkers
 
@@ -145,6 +152,7 @@ title: "Programming Languages"
 - [ ] [Software Foundations(Course Cornell)](https://youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)
 - [ ] [Software Foundations Books](https://softwarefoundations.cis.upenn.edu/index.html)
 - [ ] [An introduction to creating a C compiler for those who want to know the lower layers(In Japanese, so have to translate)](https://www-sigbus-info.translate.goog/compilerbook?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en)
-- [ ] [PL Class by Edward Z Yangz](https://youtube.com/playlist?list=PL9sqUxos-K_dOV8k2q6JZN-u78BNJVhwd), [materials link( i think )](https://github.com/ezyang/pl-class-public)
+- [ ] [PL Class by Edward Z Yangz](https://youtube.com/playlist?list=PL9sqUxos-K_dOV8k2q6JZN-u78BNJVhwd),
+      [materials link( i think )](https://github.com/ezyang/pl-class-public)
 - [ ] [Advanced Functional Programming(in Agda with videos)](https://github.com/pigworker/CS410-18/tree/master?s=08)
 - [ ] [Programming languages(follows TAPL and content looks great)](https://www3.nd.edu/~dchiang/teaching/pl/2022/index.html)

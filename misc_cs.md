@@ -4,7 +4,8 @@ title: "Miscellaneous CS"
 
 # Misc
 
-- [ ] [Advanced Topics in Computer Systems]http://people.eecs.berkeley.edu/~kubitron/cs262/index_lectures.html)
+- [ ] [Advanced Topics in Computer
+      Systems]http://people.eecs.berkeley.edu/~kubitron/cs262/index_lectures.html)
 - [ ] [Computer Organization](https://youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu)
 - [ ] [Beej Networking](https://beej.us/guide/bgnet/)
 - [ ] [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
@@ -33,7 +34,10 @@ title: "Miscellaneous CS"
 - [ ] [Dmitry Vyukov, lockfree algorithms is a goldmine](https://www.1024cores.net/)
 - [ ] [Parallel and Concurrent Algorithms, Carnegie Mellon University](https://www.cs.cmu.edu/~guyb/paralg/)
 - [ ] [perf-book](https://github.com/dendibakh/perf-book)
-- [ ] [perf-ninja](https://github.com/dendibakh/perf-ninja), [YT-playlist](https://www.youtube.com/playlist?list=PLRWO2AL1QAV6bJAU2kgB4xfodGID43Y5d)
+- [ ] [perf-ninja](https://github.com/dendibakh/perf-ninja),
+      [YT-playlist](https://www.youtube.com/playlist?list=PLRWO2AL1QAV6bJAU2kgB4xfodGID43Y5d)
 - [ ] [Has a lot of cool design patterns(found this page while looking for Event Sourcing Pattern)](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 - [ ] [Series of articles on The internals of PostgreSQL](https://www.interdb.jp/pg/index.html?s=08)
 - [ ] [Distsys-class by aphyr(good overview of many things and a good way to learn terminologies)](https://github.com/aphyr/distsys-class#an-introduction-to-distributed-systems)
+- [ ] [Getting started with Database development(reddit post)](https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/)
+- [ ] [Linux Internals gitbook](https://0xax.gitbooks.io/linux-insides/content/)
