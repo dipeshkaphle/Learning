@@ -20,3 +20,5 @@ title: "OS"
 - [ ] [liburing](https://github.com/axboe/liburing)
 - [ ] [Efficient IO in linux with io_uring](https://news.ycombinator.com/item?id=33221063)
 - [ ] [LockFree Algorithms 2010](https://news.ycombinator.com/item?id=32918043)
+- [ ] [Linux Kernel exploration + theory sort of(I'm never going to see this but the effort seems insane on this)](https://linux-kernel-labs.github.io/refs/heads/master/)
+- [ ] [linux-insides(again great effort, synchronization topics look good might see someday)](https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-1.html)

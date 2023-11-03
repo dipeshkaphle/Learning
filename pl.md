@@ -23,6 +23,7 @@ title: "Programming Languages"
 - [ ] [ACM India summer School on PL and optimizations](https://archive.nptel.ac.in/courses/128/106/128106018/)
 - [ ] [ACM India Summer School on Programming Languages(Thing of more interest is Program Semantics lectures(done in F\*))](https://archive.nptel.ac.in/courses/128/106/128106013/)
 - [ ] [ACM Summer School on Compiler Design and construction(uses some llvm)](https://nptel.ac.in/courses/128106009)
+- [ ] [PL Semantics by Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
 
 ## Overview
 

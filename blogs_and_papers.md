@@ -55,6 +55,8 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Jepsen tagged posts on aphyr](https://aphyr.com/tags/jepsen)
 - [ ] [FoundationDB blogs(lottt of distsys + db content, I need to read this someday)](https://apple.github.io/foundationdb/contents.html)
 - [ ] [Ted Kaminski blog(matklad recommends to read all of this in chronological order)](https://www.tedinski.com/archive/)
+- [ ] [Justin Jaffray blogs,lots of DB stuff]https://justinjaffray.com/)
+- [ ] [Stefan Marr blogs](https://stefan-marr.de/archive)
 
 # Misc blogs
 
