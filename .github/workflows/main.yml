@@ -21,6 +21,8 @@ jobs:
         run: git clone --recurse-submodules --depth 1 https://github.com/dipeshkaphle/dipeshkaphle.github.io
       - name: Copy templates
         run: cp -r dipeshkaphle.github.io/templates templates && rm templates/index.html
+      - name: Copy theme
+        run: mv dipeshkaphle.github.io/themes .
       - name: Remove the cloned repo
         run: rm -rf dipeshkaphle.github.io
       - name: Create content folder
