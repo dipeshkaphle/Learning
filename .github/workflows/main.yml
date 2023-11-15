@@ -32,7 +32,7 @@ jobs:
       - name: Copy folders to content
         run: cp -r ${{env.FOLDERS_TO_COPY}} content/ || true
       - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.16.1-1
+        uses: shalzz/zola-deploy-action@master
         env:
           # Target branch
           PAGES_BRANCH: gh-pages
