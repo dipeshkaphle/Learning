@@ -57,6 +57,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Ted Kaminski blog(matklad recommends to read all of this in chronological order)](https://www.tedinski.com/archive/)
 - [ ] [Justin Jaffray blogs,lots of DB stuff]https://justinjaffray.com/)
 - [ ] [Stefan Marr blogs](https://stefan-marr.de/archive)
+- [ ] [Jamie Brandon](https://www.scattered-thoughts.net/) and [logs?](https://www.scattered-thoughts.net/log)
 
 # Misc blogs
 
