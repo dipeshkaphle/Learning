@@ -41,7 +41,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Yield : Mainstream Delimited Continuations; "yield" from different languages compared and formalized](http://lambda-the-ultimate.org/node/4349)
 - [ ] [Too many cool topics in this site(See especially Types, Metaprogramming and Continuation related things)](https://okmij.org/ftp/)
 - [ ] [Way too much information about C++ coroutines](https://lewissbaker.github.io/)
-- [ ] [mcyoung's blog(very nice systems and rust related posts)](https://mcyoung.xyz/posts.html)
+- [ ] [mcyoung's blog(very nice systems and rust related posts)](https://mcyoung.xyz/posts.html) and [some readings](https://mcyoung.xyz/syllabus?s=08)
 - [ ] [MeloSpace notes(has distsys paper summaries and some more cool things in blogs)](https://melodiessim.netlify.app/notes/)
 - [ ] [WebAssembly and replayable functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/?s=08), other blogs by the author are also cool
 - [ ] [System Design Interviews Overview](https://kipp.ly/system-design-interviews/)
@@ -61,6 +61,8 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Red Vice Blogs](https://blog.redvice.org)
 - [ ] [SillyCross blogs](https://sillycross.github.io/archives/?s=08)
 - [ ] [Colin James blogs, compiling lambda calculus one looks nice](http://compiler.club/)
+- [ ] [Some nice PL related blogs by @prophet cohost](https://cohost.org/prophet/post/4032868-some-of-the-things-i?s=08)
+- [ ] [Alex Miller Blog(distsys + db)](https://transactional.blog/)
 
 # Misc blogs
 
@@ -112,3 +114,7 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Making the Global Interpreter Lock optional in CPython(covers quite a lot of python internals)](https://peps.python.org/pep-0703/)
 - [ ] [Project Loom proposal Java](https://cr.openjdk.org/~rpressler/loom/Loom-Proposal.html)
 - [ ] [PDOS distributed systems readings](http://dsrg.pdos.csail.mit.edu/papers/)
+- [ ] [Simple and Efficient Construction of SSA Form](https://c9x.me/compile/bib/braun13cc.pdf)
+- [ ] [Cornell Programming Languages Discussion Group(nice papers list)](https://pl.cs.cornell.edu/pldg/)
+- [ ] [Cilk: An Efficient Multithreaded Runtime System (Rayon is based on this)](https://dl.acm.org/doi/pdf/10.1145/209937.209958)
+- [ ] [Some papers categorized, list seems okay, might check sometimes once these other things are done lol](https://github.com/erikgrinaker/readings?s=08)

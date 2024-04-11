@@ -43,3 +43,6 @@ title: "Miscellaneous CS"
 - [ ] [Linux Internals gitbook](https://0xax.gitbooks.io/linux-insides/content/)
 - [X] [Phil Eaton's An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
 - [ ] [Distributed Programming Book(good content)](https://github.com/heathermiller/dist-prog-book)
+- [ ] [Building a Transactional Key-Value Database](https://brianshih1.github.io/mini-key-value-db/chapter_1/motivation.html)
+- [ ] [TiDB Dev guide(Has some DB internals stuff)](https://pingcap.github.io/tidb-dev-guide/index.html?s=08)
+- [ ] [TiKV Deep Dive, has very interesting TOC](https://tikv.github.io/deep-dive-tikv/overview/introduction.html)

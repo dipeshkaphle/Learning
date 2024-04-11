@@ -22,3 +22,9 @@ title: "OS"
 - [ ] [LockFree Algorithms 2010](https://news.ycombinator.com/item?id=32918043)
 - [ ] [Linux Kernel exploration + theory sort of(I'm never going to see this but the effort seems insane on this)](https://linux-kernel-labs.github.io/refs/heads/master/)
 - [ ] [linux-insides(again great effort, synchronization topics look good might see someday)](https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-1.html)
+
+
+## Some Cool Stuff
+
+- [ ] [The Deadlock Empire! Slay dragons, master concurrency!](https://deadlockempire.github.io/?s=08)
+- [ ] [Some stuff on Memory barries from Linux Kernel Documentation](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/memory-barriers.txt?id=HEAD&s=08)

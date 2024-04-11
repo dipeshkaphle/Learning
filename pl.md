@@ -100,6 +100,7 @@ title: "Programming Languages"
 - [ ] [Extensive tutorial of Hindley Milner](https://github.com/quchen/articles/blob/master/hindley-milner/README.md)
 - [ ] [Write your own tiny programming system(s) (Hindley-Milner, OOP, Prolog,etc implementation)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 - [ ] [Type systems in ocaml](https://github.com/tomprimozic/type-systems)
+- [ ] [Typechecking in Lean4](https://ammkrn.github.io/type_checking_in_lean4/title_page.html)
 
 ## Virtual Machine
 
@@ -169,3 +170,10 @@ title: "Programming Languages"
 - [ ] [Theorem Proving in Lean4](https://lean-lang.org/theorem_proving_in_lean4/)
 - [ ] [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/index.html)
 - [ ] [Mechanics of Proofs](https://hrmacbeth.github.io/math2001/)
+
+## Some Cool stuff I've found
+
+- [ ] [How does this work??? (Mulligan)](https://github.com/brandonspark/mulligan)
+- [ ] [Garbage collection with zero cost at non-GC time](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d?s=08)
+- [ ] [Why is Idris 2 much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html?s=08)
+- [ ] [Making more out of traits(Rust)](https://internals.rust-lang.org/t/making-more-out-of-traits/5796)  and [many other discussion about Rust language design](https://internals.rust-lang.org/c/language-design/21)
