@@ -26,3 +26,4 @@ title: "Haskell"
 - [ ] [@lexi_lambda: The GHC optimization pipeline](https://youtu.be/fdyh3YQ-ZWI)
 - [ ] [@lexi_lambda: GHC Simplifier basics](https://youtu.be/m_HX4hyOuog)
 - [ ] [@rae's Thoughts on Haskell(playlist with some advanced topics)](https://youtube.com/playlist?list=PLyzwHTVJlRc9QcF_tdqc9RdxJED8Mvyh1)
+- [ ] [GHC internals by Stephen Diehl(series of posts)](https://www.stephendiehl.com/posts/ghc_01.html)

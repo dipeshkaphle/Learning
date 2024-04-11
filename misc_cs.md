@@ -13,8 +13,9 @@ title: "Miscellaneous CS"
 - [ ] [ILP, DLP, TLP](https://youtube.com/playlist?list=PLeWkeA7esB-PcOTrTCvAsaCArnCMQkcNv)
 - [ ] [Paradigms of Artificial Intelligence Programming (Peter Norvig)](https://news.ycombinator.com/item?id=32458048)
 - [ ] [SQLite Internals HN post,(fly.io has more articles about sqlite)](https://news.ycombinator.com/item?id=32250426)
-- [ ] [Intro to Databases](https://15445.courses.cs.cmu.edu/fall2022/)
-- [ ] [Advanced Databases](https://15721.courses.cs.cmu.edu/spring2023/)
+- [ ] [Intro to Databases](https://15445.courses.cs.cmu.edu/fall2023/)
+- [ ] [Advanced Databases(Focus on OLAP systems only)](https://15721.courses.cs.cmu.edu/spring2024/)
+- [ ] [Advanced Databases(Focus on OLTP(and transactions) and OLAP)](https://15721.courses.cs.cmu.edu/spring2020/)
 - [ ] [Distributed Systems MIT(Robert Morris)](http://nil.csail.mit.edu/6.824/2020/)
       , More recent version is [here](https://pdos.csail.mit.edu/6.824/) ,
       Some interesting papers mentioned
@@ -40,3 +41,5 @@ title: "Miscellaneous CS"
 - [ ] [Distsys-class by aphyr(good overview of many things and a good way to learn terminologies)](https://github.com/aphyr/distsys-class#an-introduction-to-distributed-systems)
 - [ ] [Getting started with Database development(reddit post)](https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/)
 - [ ] [Linux Internals gitbook](https://0xax.gitbooks.io/linux-insides/content/)
+- [X] [Phil Eaton's An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
+- [ ] [Distributed Programming Book(good content)](https://github.com/heathermiller/dist-prog-book)

@@ -19,6 +19,7 @@ title: "Programming Languages"
 - [ ] [Type System for Memory Safety(another banger by borretti)](https://borretti.me/article/type-systems-memory-safety)
 - [ ] [Programming Languages Research (many papers and links consolidated here)](https://github.com/imteekay/programming-language-research)
 - [ ] [How to read inference rules](https://cohost.org/prophet/post/2248211-how-to-read-inferenc)
+- [ ] [How to implement effect handlers](https://cohost.org/prophet/post/3031893-it-doesn-t-actually?s=08)
 - [ ] [How should I read type system notation?(by lexilambda)](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
 - [ ] [ACM India summer School on PL and optimizations](https://archive.nptel.ac.in/courses/128/106/128106018/)
 - [ ] [ACM India Summer School on Programming Languages(Thing of more interest is Program Semantics lectures(done in F\*))](https://archive.nptel.ac.in/courses/128/106/128106013/)
@@ -97,6 +98,8 @@ title: "Programming Languages"
 - [ ] [Carbon Design Documents](https://github.com/carbon-language/carbon-lang/tree/trunk/docs/design)
 - [ ] [Trustfall(super cool thing)](https://github.com/obi1kenobi/trustfall)
 - [ ] [Extensive tutorial of Hindley Milner](https://github.com/quchen/articles/blob/master/hindley-milner/README.md)
+- [ ] [Write your own tiny programming system(s) (Hindley-Milner, OOP, Prolog,etc implementation)](https://d3s.mff.cuni.cz/teaching/nprg077/)
+- [ ] [Type systems in ocaml](https://github.com/tomprimozic/type-systems)
 
 ## Virtual Machine
 
@@ -138,6 +141,7 @@ title: "Programming Languages"
 ## Linkers
 
 - [ ] [Mold(README has a lot of information)](https://github.com/rui314/mold)
+- [ ] [How to execute an object file](https://blog.cloudflare.com/how-to-execute-an-object-file-part-4/)
 
 ## Courses and Assignments
 
@@ -157,3 +161,11 @@ title: "Programming Languages"
       [materials link( i think )](https://github.com/ezyang/pl-class-public)
 - [ ] [Advanced Functional Programming(in Agda with videos)](https://github.com/pigworker/CS410-18/tree/master?s=08)
 - [ ] [Programming languages(follows TAPL and content looks great)](https://www3.nd.edu/~dchiang/teaching/pl/2022/index.html)
+
+
+## Theorem Provers
+
+- [ ] [Logic and Proofs in Lean(3?)](https://leanprover.github.io/logic_and_proof/index.html)
+- [ ] [Theorem Proving in Lean4](https://lean-lang.org/theorem_proving_in_lean4/)
+- [ ] [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/index.html)
+- [ ] [Mechanics of Proofs](https://hrmacbeth.github.io/math2001/)

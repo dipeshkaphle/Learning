@@ -58,6 +58,9 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Justin Jaffray blogs,lots of DB stuff]https://justinjaffray.com/)
 - [ ] [Stefan Marr blogs](https://stefan-marr.de/archive)
 - [ ] [Jamie Brandon](https://www.scattered-thoughts.net/) and [logs?](https://www.scattered-thoughts.net/log)
+- [ ] [Red Vice Blogs](https://blog.redvice.org)
+- [ ] [SillyCross blogs](https://sillycross.github.io/archives/?s=08)
+- [ ] [Colin James blogs, compiling lambda calculus one looks nice](http://compiler.club/)
 
 # Misc blogs
 
@@ -108,3 +111,4 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
 - [ ] [Making the Global Interpreter Lock optional in CPython(covers quite a lot of python internals)](https://peps.python.org/pep-0703/)
 - [ ] [Project Loom proposal Java](https://cr.openjdk.org/~rpressler/loom/Loom-Proposal.html)
+- [ ] [PDOS distributed systems readings](http://dsrg.pdos.csail.mit.edu/papers/)
