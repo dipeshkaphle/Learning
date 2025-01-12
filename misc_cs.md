@@ -1,5 +1,6 @@
 ---
 title: "Miscellaneous CS"
+date: ""
 ---
 
 # Misc

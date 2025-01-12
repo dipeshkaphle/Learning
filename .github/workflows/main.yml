@@ -28,7 +28,7 @@ jobs:
       - name: Create content folder
         run: mkdir content
       - name: Create _index.md inside content
-        run: printf "+++\ntitle = \"%s\"\n+++\n" ${{env.INDEX_TITLE}} > content/_index.md
+        run: printf "+++\ntitle = \"%s\"\ndate = \"\"\n+++\n" ${{env.INDEX_TITLE}} > content/_index.md
       - name: Copy md files to content directory
         run: find -maxdepth 1 -regextype egrep -regex ".*\.(md|MD)" -exec cp "{}" content  \;
       - name: Copy folders to content

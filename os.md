@@ -1,5 +1,6 @@
 ---
 title: "OS"
+date: ""
 ---
 
 # Operating Systems
