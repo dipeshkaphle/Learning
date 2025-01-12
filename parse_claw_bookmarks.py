@@ -7,6 +7,7 @@ out = open("LobstersLinks.md", "w")
 out.write(
     """---
 title: "Lobste.rs Links"
+date: ""
 ---\n
 """
 )
