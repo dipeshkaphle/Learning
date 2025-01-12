@@ -25,6 +25,20 @@ title: "Programming Languages"
 - [ ] [ACM India Summer School on Programming Languages(Thing of more interest is Program Semantics lectures(done in F\*))](https://archive.nptel.ac.in/courses/128/106/128106013/)
 - [ ] [ACM Summer School on Compiler Design and construction(uses some llvm)](https://nptel.ac.in/courses/128106009)
 - [ ] [PL Semantics by Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
+- [ ] [Getting Started with Category Theory](https://ryanbrewer.dev/posts/getting-started-category-theory/)
+- [ ] [NUPRL - 10 papers that all PhD students in programming languages ought to know, for some value of 10](https://github.com/nuprl/10PL)
+- [ ] [What does it mean for a type system or language to be "sound"?](https://langdev.stackexchange.com/questions/3372/what-does-it-mean-for-a-type-system-or-language-to-be-sound/3377#3377)
+- [ ] [Normalization by Evaluation Four Ways: Reconstructing NbE Designs from First Principles](https://williamjbowman.com/tmp/nbe-four-ways/)
+- [ ] [Parametric Higher-Order Abstract Syntax](https://lean-lang.org/lean4/doc/examples/phoas.lean.html) , [HOAS](http://adam.chlipala.net/cpdt/html/Hoas.html)
+- [ ] [The precise definition of Normalization By Evaluation?](https://cstheory.stackexchange.com/questions/52149/the-precise-definition-of-normalization-by-evaluation)
+- [ ] [Normalization by Evaluation, Agda](https://emmanueljs1.github.io/nbe/NbE.html)
+- [ ] [Normalisation by Evaluation in the
+Compilation of Typed Functional
+Programming Languages - Sam Lindley Thesis](https://era.ed.ac.uk/bitstream/handle/1842/778/lindley_thesis.pdf?sequence=1&isAllowed=y)
+- [ ] [Zulip Chat Archive - Subject Reduction](https://leanprover-community.github.io/archive/stream/113488-general/topic/subject.20reduction.html)
+- [ ] [Zulip Chat Archive - What is the subject reduction debate?](https://leanprover-community.github.io/archive/stream/113488-general/topic/What.20is.20the.20subject.20reduction.20debate.3F.html)
+- [ ] [Subject reduction in Lean](https://pixel-druid.com/articles/subject-reduction-in-lean.html)
+- [ ] [How much of trouble is Lean's failure of normalization, given that logical consistency is not obviously broken?](https://proofassistants.stackexchange.com/questions/1183/how-much-of-trouble-is-leans-failure-of-normalization-given-that-logical-consi)
 
 ## Overview
 
@@ -100,7 +114,6 @@ title: "Programming Languages"
 - [ ] [Extensive tutorial of Hindley Milner](https://github.com/quchen/articles/blob/master/hindley-milner/README.md)
 - [ ] [Write your own tiny programming system(s) (Hindley-Milner, OOP, Prolog,etc implementation)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 - [ ] [Type systems in ocaml](https://github.com/tomprimozic/type-systems)
-- [ ] [Typechecking in Lean4](https://ammkrn.github.io/type_checking_in_lean4/title_page.html)
 
 ## Virtual Machine
 
@@ -138,6 +151,8 @@ title: "Programming Languages"
 - [ ] [Mapping High level constructs to LLVM IR](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
 - [ ] [Program Analysis Resources(very comprehensive)](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
 - [ ] [Learning Resources for Clang libraries](https://discourse.llvm.org/t/new-learning-resource-for-clang-libraries-slide-deck-and-code-examples/67604)
+- [ ] [Compiler Optimizations](https://compileroptimizations.com/index.html)
+- [ ] [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 
 ## Linkers
 
@@ -162,6 +177,10 @@ title: "Programming Languages"
       [materials link( i think )](https://github.com/ezyang/pl-class-public)
 - [ ] [Advanced Functional Programming(in Agda with videos)](https://github.com/pigworker/CS410-18/tree/master?s=08)
 - [ ] [Programming languages(follows TAPL and content looks great)](https://www3.nd.edu/~dchiang/teaching/pl/2022/index.html)
+- [ ] [Xavier Leroy - Program logics: reasoning principles for high-assurance software](https://xavierleroy.org/CdF/2020-2021/)
+- [ ] [Xavier Leroy - Mechanized semantics: when machines reason about their languages](https://xavierleroy.org/CdF/2019-2020/index.html)
+- [ ] [Xavier Leroy - Programming = proving? The Curry-Howard correspondence today](https://xavierleroy.org/CdF/2018-2019/index.html)
+- [ ] [Xavier Leroy - Control structures](https://xavierleroy.org/CdF/2023-2024/index.html)
 
 
 ## Theorem Provers
@@ -170,6 +189,18 @@ title: "Programming Languages"
 - [ ] [Theorem Proving in Lean4](https://lean-lang.org/theorem_proving_in_lean4/)
 - [ ] [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/index.html)
 - [ ] [Mechanics of Proofs](https://hrmacbeth.github.io/math2001/)
+- [ ] [What is the difference between Gallina and Ltac?](https://coq.discourse.group/t/what-is-the-difference-between-gallina-and-ltac/1184)
+- [ ] [Coq <-> Lean4 Tactics Cheat Sheet](https://gist.github.com/watersofoblivion/9646164deb5c1901413d64ba9f2a49b9#file-tacticscheatsheet-md)
+- [ ] [Lean Tactic Reference](https://course.ccs.neu.edu/cs2800sp23/ref.html)
+- [ ] [Logic and Computation Course, uses Lean 4](https://course.ccs.neu.edu/cs2800sp23/index.html)
+- [ ] [Lean 3 Type theory](https://github.com/digama0/lean-type-theory)
+- [ ] [Typechecking in Lean4](https://ammkrn.github.io/type_checking_in_lean4/title_page.html)
+- [ ] [Lean4Lean](https://github.com/digama0/lean4lean)
+- [ ] [Semantics Course in Coq/Rocq - Saarland University ](https://gitlab.mpi-sws.org/FP/semantics-course/)
+- [ ] [A Logical Approach to Type Soundness](https://iris-project.org/pdfs/2024-jacm-logical-type-soundness.pdf)
+- [ ] [Iris Tutorial](https://github.com/logsem/iris-tutorial?tab=readme-ov-file) , [Iris Lecture Notes](https://iris-project.org/tutorial-material.html)
+- [ ] [PulseCore: A Dependently Typed Stratified Separation Logic](https://fstar-lang.org/papers/pulsecore.pdf)
+- [ ] [Hitchhiker's Guide to Logical Verification - Lean4](https://github.com/lean-forward/logical_verification_2024)
 
 ## Some Cool stuff I've found
 
@@ -177,3 +208,18 @@ title: "Programming Languages"
 - [ ] [Garbage collection with zero cost at non-GC time](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d?s=08)
 - [ ] [Why is Idris 2 much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html?s=08)
 - [ ] [Making more out of traits(Rust)](https://internals.rust-lang.org/t/making-more-out-of-traits/5796)  and [many other discussion about Rust language design](https://internals.rust-lang.org/c/language-design/21)
+- [ ] [New research programming languages thread Reddit](https://www.reddit.com/r/ProgrammingLanguages/s/uufTftvdLu)
+
+## Dependent Types
+
+- [ ] [A tutorial implementation of a dependently typed lambda calculus (LambdaPi)](https://www.andres-loeh.de/LambdaPi/)
+- [ ] [OCaml Discuss - Dependent Types in the Purest Form](https://discuss.ocaml.org/t/dependent-types-in-the-purest-form/10547/7)
+- [ ] [Swift Discuss - [Pitch] Dependent Types & Universes (Stage 1 of Proof-Driven Development?)](https://forums.swift.org/t/pitch-dependent-types-universes-stage-1-of-proof-driven-development/63754)
+- [ ] [Dependent Theory of Types](https://ice1000.org/dtt-dev/assemble.html)
+- [ ] [Online reference book for *implementing* concepts in type theory, Answererd by Andras Kovacs](https://math.stackexchange.com/questions/3466976/online-reference-book-for-implementing-concepts-in-type-theory)
+
+## Automated Verification
+
+- [ ] [Automated Program Verification - Waterloo](https://ece.uwaterloo.ca/~agurfink/ece750t29/)
+- [ ] [Automated Program Verification - Kartik Nagar](https://kartiknagar.github.io/courses/apv/lectures/)
+- [ ] [Modern Symbolic AI and Automated Reasoning](https://kmicinski.com/cis700-f23/)

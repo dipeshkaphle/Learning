@@ -35,6 +35,8 @@ title: "Rust"
 - [ ] [Explain GATs like I'm 5 years old](https://news.ycombinator.com/item?id=33504650)
 - [ ] [Pin, Unpin and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust/?s=08)
 - [ ] [How Rust optimizes async/await](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
+- [ ] [Rust Runtime Design and Implementation, series(https://github.com/bytedance/monoio)](https://en.ihcblog.com/rust-runtime-design-1/)
+- [ ] [Pin and suffering](https://fasterthanli.me/articles/pin-and-suffering?s=08)
 
 ## Internals and Design/Architecture docs of compiler
 

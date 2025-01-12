@@ -4,6 +4,8 @@ title: "Haskell"
 
 # Haskell
 
+- [ ] [Type Systems re Haskell](https://wiki.haskell.org/Research_papers/Type_systems)
+
 ## Videos
 
 - [x] [Functional Programming in Haskell](https://youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)

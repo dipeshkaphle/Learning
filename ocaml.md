@@ -27,3 +27,6 @@ title: "OCaml"
 - [ ] [Profiling in OCaml](https://ocaml.org/docs/profiling)
 - [ ] [kcas 1/2](https://tarides.com/blog/2023-08-07-kcas-building-a-lock-free-stm-for-ocaml-1-2/)
 - [ ] [kcas 2/2](https://tarides.com/blog/2023-08-10-kcas-building-a-lock-free-stm-for-ocaml-2-2/)
+- [ ] [ Are OCaml modules basically compile-time records? ](https://www.reddit.com/r/ProgrammingLanguages/s/mCBOtykYqZ)
+- [ ] [Oxidizing OCaml with Modal Memory Management](https://homepages.inf.ed.ac.uk/slindley/papers/mode-inference-draft-feb2024.pdf)
+- [ ] [OCaml Discuss - [Multicore] [Blog post] A deep dive into Multicore OCaml garbage collector](https://discuss.ocaml.org/t/multicore-blog-post-a-deep-dive-into-multicore-ocaml-garbage-collector/557)

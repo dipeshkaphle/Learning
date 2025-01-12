@@ -46,3 +46,6 @@ title: "Miscellaneous CS"
 - [ ] [Building a Transactional Key-Value Database](https://brianshih1.github.io/mini-key-value-db/chapter_1/motivation.html)
 - [ ] [TiDB Dev guide(Has some DB internals stuff)](https://pingcap.github.io/tidb-dev-guide/index.html?s=08)
 - [ ] [TiKV Deep Dive, has very interesting TOC](https://tikv.github.io/deep-dive-tikv/overview/introduction.html)
+- [ ] [What every systems programmer should know about concurrency by Matt Kline
+](What every systems programmer should know about concurrency by Matt Kline
+) , [GitHub](https://github.com/sysprog21/concurrency-primer)

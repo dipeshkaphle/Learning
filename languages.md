@@ -28,10 +28,23 @@ title: "Languages"
 - [ ] [High Performance GC for C++](https://v8.dev/blog/high-performance-cpp-gc)
 - [ ] [Precise Stack Scanning in C++](https://docs.google.com/document/d/1mF-IW2UDwFslAREeapnP8bgXAlLG_DScOVhuTo34gBQ/edit#heading=h.ft3eufkln61m)
 
+### React
+
+- [ ] [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
+- [ ] [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+
 ## Golang
 
 - [ ] [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency ](https://youtu.be/-K11rY57K7k)
+- [ ] [Proposal: Non-cooperative goroutine preemption](https://go.googlesource.com/proposal/+/master/design/24543-non-cooperative-preemption.md)
+- [ ] [Preemption in Go: an introduction](https://unskilled.blog/posts/preemption-in-go-an-introduction/#:~:text=The%20first%20step%20towards%20preemption,course%20it%20can%20be%20preempted), [code](https://go.dev/src/runtime/preempt.go)
 
 ## Python
 
 - [ ] [Gil removal and faster CPython project](https://lwn.net/Articles/939981/?s=08)
+
+
+## Swift
+
+- [ ] [Swift for C++ Practitioners](https://www.douggregor.net/)
+

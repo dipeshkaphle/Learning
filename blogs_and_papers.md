@@ -63,8 +63,9 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Colin James blogs, compiling lambda calculus one looks nice](http://compiler.club/)
 - [ ] [Some nice PL related blogs by @prophet cohost](https://cohost.org/prophet/post/4032868-some-of-the-things-i?s=08)
 - [ ] [Alex Miller Blog(distsys + db)](https://transactional.blog/)
+- [ ] [Adding Dependent Types to Swift(Forum Discussion for the Pitch)](https://forums.swift.org/t/pitch-dependent-types-universes-stage-1-of-proof-driven-development/63754)
 
-# Misc blogs
+## Misc blogs
 
 - [ ] [How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html?s=08)
 
@@ -118,3 +119,10 @@ title: "Blogs, Papers and Podcasts"
 - [ ] [Cornell Programming Languages Discussion Group(nice papers list)](https://pl.cs.cornell.edu/pldg/)
 - [ ] [Cilk: An Efficient Multithreaded Runtime System (Rayon is based on this)](https://dl.acm.org/doi/pdf/10.1145/209937.209958)
 - [ ] [Some papers categorized, list seems okay, might check sometimes once these other things are done lol](https://github.com/erikgrinaker/readings?s=08)
+- [ ] [Programming Language Research, papers](https://github.com/imteekay/programming-language-research)
+- [ ] [Recent Topics in Compilers - Papers](https://kartiknagar.github.io/courses/rtc-jul2023/paper_list/)
+
+## Misc Posts from Different Forums
+
+- [ ] [Reddit - Andras Kovac's comment, regarding Rust,GC and Haskell](https://www.reddit.com/r/haskell/comments/gok70o/comment/frj9hty/)
+- [ ] [Swift Discuss -  Swift type checking is undecidable](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024)
