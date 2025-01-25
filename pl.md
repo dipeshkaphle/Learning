@@ -1,6 +1,6 @@
 ---
-title: "Programming Languages"
-date: "2001-03-25"
+title = "Programming Languages"
+date = "2001-03-25"
 ---
 
 # Programming Languages/Compilers/Interpreters

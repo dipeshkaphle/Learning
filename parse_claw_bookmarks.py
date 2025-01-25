@@ -6,8 +6,8 @@ out = open("LobstersLinks.md", "w")
 
 out.write(
     """---
-title: "Lobste.rs Links"
-date: "2001-03-25"
+title = "Lobste.rs Links"
+date = "2001-03-25"
 ---\n
 """
 )

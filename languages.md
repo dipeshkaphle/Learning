@@ -1,6 +1,6 @@
 ---
-title: "Languages"
-date: "2001-03-25"
+title = "Languages"
+date = "2001-03-25"
 ---
 
 # Languages

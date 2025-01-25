@@ -1,6 +1,6 @@
 ---
-title: "Miscellaneous CS"
-date: "2001-03-25"
+title = "Miscellaneous CS"
+date = "2001-03-25"
 ---
 
 # Misc

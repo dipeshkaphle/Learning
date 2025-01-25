@@ -1,6 +1,6 @@
 ---
-title: "Haskell"
-date: "2001-03-25"
+title = "Haskell"
+date = "2001-03-25"
 ---
 
 # Haskell

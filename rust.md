@@ -1,6 +1,6 @@
 ---
-title: "Rust"
-date: "2001-03-25"
+title = "Rust"
+date = "2001-03-25"
 ---
 
 # Rust
