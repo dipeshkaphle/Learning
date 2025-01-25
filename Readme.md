@@ -1,8 +1,8 @@
-+++
-title = "Learning Resources(README)"
-path = "readme"
+---
+title: "Learning Resources(README)"
+path: "readme"
 date: "2001-03-25"
-+++
+---
 
 # Learning Resources
 
