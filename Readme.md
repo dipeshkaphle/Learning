@@ -1,7 +1,7 @@
 +++
 title = "Learning Resources(README)"
 path = "readme"
-date: ""
+date: "2001-03-25"
 +++
 
 # Learning Resources

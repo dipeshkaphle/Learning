@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous CS"
-date: ""
+date: "2001-03-25"
 ---
 
 # Misc

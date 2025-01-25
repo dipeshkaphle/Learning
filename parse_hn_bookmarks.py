@@ -13,7 +13,7 @@ out = open("HNLinks.md", "w")
 out.write(
     """---
 title: "HN Links"
-date: ""
+date: "2001-03-25"
 ---\n
 """
 )
