@@ -1,6 +1,6 @@
 ---
-title = "Blogs, Papers and Podcasts"
-date = "2001-03-25"
+title: "Blogs, Papers and Podcasts"
+date: "2001-03-25"
 ---
 
 # Blogs and Podcasts

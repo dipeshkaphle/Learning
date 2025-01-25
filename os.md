@@ -1,6 +1,6 @@
 ---
-title = "OS"
-date = "2001-03-25"
+title: "OS"
+date: ""
 ---
 
 # Operating Systems

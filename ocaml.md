@@ -1,6 +1,6 @@
 ---
-title = "OCaml"
-date = "2001-03-25"
+title: "OCaml"
+date: "2001-03-25"
 ---
 
 # Ocaml
