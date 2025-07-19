@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from typing import List
-
+import json
 
 def chunks(l: List[str], n: int):
     for i in range(0, len(l), n):
@@ -18,11 +18,25 @@ date: "2001-03-25"
 """
 )
 
-with open("static/materialistic-export.txt", "r") as f:
+# Process materialistic bookmarks
+with open("static/materialistic-export-final.txt", "r") as f:
     lines = f.readlines()
     for chnk in chunks(lines, 4):
-        out.write(
-            """- [{}]({}) , [HN Discussion]({})\n""".format(
-                chnk[0].strip(), chnk[1].strip(), chnk[2].strip()
+        if len(chnk) >= 3:
+            out.write(
+                """- [{}]({}) , [HN Discussion]({})\n""".format(
+                    chnk[0].strip(), chnk[1].strip(), chnk[2].strip()
+                )
             )
+
+# Process harmonic bookmarks
+with open("static/harmonic_bookmarks.json", "r") as f:
+    harmonic_data = json.load(f)
+    for item in harmonic_data:
+        out.write(
+            f"- [{item['title']}]({item['url']}) , [HN Discussion]({item['hn_link']})\n"
         )
+
+out.close()
+
+print("Successfully updated HNLinks.md with bookmarks from both sources.")
