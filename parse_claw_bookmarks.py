@@ -13,7 +13,7 @@ date: "2001-03-25"
 )
 
 
-with open("static/claw-export.json", "r") as f:
+with open("static/claw-export-final.json", "r") as f:
     json = json.loads("\n".join(f.readlines()))
     for row in json:
         out.write(
