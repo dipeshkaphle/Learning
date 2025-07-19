@@ -1,0 +1,22 @@
+[
+    {
+        "title": "A reverse engineering of Linear's sync engine",
+        "url": "https://github.com/wzhudev/reverse-linear-sync-engine",
+        "hn_link": "https://news.ycombinator.com/item?id=44134775"
+    },
+    {
+        "title": "Jemalloc Postmortem",
+        "url": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+        "hn_link": "https://news.ycombinator.com/item?id=44264958"
+    },
+    {
+        "title": "Lens: Lenses, Folds and Traversals",
+        "url": "https://hackage.haskell.org/package/lens",
+        "hn_link": "https://news.ycombinator.com/item?id=44433062"
+    },
+    {
+        "title": "WASM Agents: AI agents running in the browser",
+        "url": "https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/",
+        "hn_link": "https://news.ycombinator.com/item?id=44461341"
+    }
+]

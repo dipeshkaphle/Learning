@@ -1,0 +1,79 @@
+What If We Could Rebuild Kafka from Scratch?
+https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/
+https://news.ycombinator.com/item?id=43783551
+
+Everything You Need to Know About Incremental View Maintenance
+https://materializedview.io/p/everything-to-know-incremental-view-maintenance
+https://news.ycombinator.com/item?id=43730676
+
+Self-Hosting like it's 2025
+https://kiranet.org/self-hosting-like-its-2025/
+https://news.ycombinator.com/item?id=43544979
+
+I Wrote a WebAssembly VM in C
+https://irreducible.io/blog/my-wasm-interpreter/
+https://news.ycombinator.com/item?id=42918524
+
+Decorator JITs: Python as a DSL
+https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/
+https://news.ycombinator.com/item?id=42918846
+
+A Gentle Introduction to Liquid Types
+https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/
+https://news.ycombinator.com/item?id=37349276
+
+Mathematicians welcome computer-assisted proof in ‘grand unification’ theory
+https://www.nature.com/articles/d41586-021-01627-2
+https://news.ycombinator.com/item?id=27559917
+
+The Fastest Mutexes
+https://justine.lol/mutex/
+https://news.ycombinator.com/item?id=41721668
+
+F* – A Proof-Oriented Programming Language
+https://www.fstar-lang.org/
+https://news.ycombinator.com/item?id=40377685
+
+How the OCaml type checker works (2022)
+https://okmij.org/ftp/ML/generalization.html
+https://news.ycombinator.com/item?id=41281555
+
+Functional languages should be so much better at mutation than they are
+https://cohost.org/prophet/post/7083950-functional-programmi
+https://news.ycombinator.com/item?id=41106280
+
+Clang vs. Clang
+https://blog.cr.yp.to/20240803-clang.html
+https://news.ycombinator.com/item?id=41146860
+
+Strict-serializability, but at what cost, for what purpose?
+http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html
+https://news.ycombinator.com/item?id=32346038
+
+Ask HN: Fast data structures for disjoint intervals?
+https://news.ycombinator.com/item?id=41000844
+https://news.ycombinator.com/item?id=41000844
+
+How the STL Uses Explicit
+https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/
+https://news.ycombinator.com/item?id=40804635
+
+Google Sheets ported its calculation worker from JavaScript to WasmGC
+https://web.dev/case-studies/google-sheets-wasmgc
+https://news.ycombinator.com/item?id=40808820
+
+The borrow checker within
+https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/
+https://news.ycombinator.com/item?id=40657626
+
+Visualizing algorithms for rate limiting
+https://smudge.ai/blog/ratelimit-algorithms
+https://news.ycombinator.com/item?id=40384421
+
+Bend: a high-level language that runs on GPUs (via HVM2)
+https://github.com/HigherOrderCO/Bend
+https://news.ycombinator.com/item?id=40390287
+
+Memory Consistency Models: A Tutorial
+https://www.cs.utexas.edu/~bornholt/post/memory-models.html
+https://news.ycombinator.com/item?id=40350201
